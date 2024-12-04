@@ -1,0 +1,123 @@
+[
+    {
+        "name": "Domestic Refrigeration",
+        "description": "Domestic refrigeration units",
+        "unit": "kg",
+        "minCapacity": 0.05,
+        "maxCapacity": 0.5,
+        "installationEmissionFactor": 1,
+        "operatingEmissions": 0.5,
+        "refrigerantRemainingAtDisposal": 80,
+        "recoveryEfficiency": 70
+    },
+    {
+        "name": "Stand-Alone Commercial",
+        "description": "Stand alone commercial applications",
+        "unit": "kg",
+        "minCapacity": 0.2,
+        "maxCapacity": 6,
+        "installationEmissionFactor": 3,
+        "operatingEmissions": 15,
+        "refrigerantRemainingAtDisposal": 80,
+        "recoveryEfficiency": 70
+    },
+    {
+        "name": "Medium/Large Commercial",
+        "description": "Medium and large commercial refrigeration units",
+        "unit": "kg",
+        "minCapacity": 50,
+        "maxCapacity": 2000,
+        "installationEmissionFactor": 3,
+        "operatingEmissions": 35,
+        "refrigerantRemainingAtDisposal": 100,
+        "recoveryEfficiency": 70
+    },
+    {
+        "name": "Transport Refrigeration",
+        "description": "Transportation refrigeration units",
+        "unit": "kg",
+        "minCapacity": 3,
+        "maxCapacity": 8,
+        "installationEmissionFactor": 1,
+        "operatingEmissions": 50,
+        "refrigerantRemainingAtDisposal": 50,
+        "recoveryEfficiency": 70
+    },
+    {
+        "name": "Industrial Refrigeration",
+        "description": "Industrial, food processing and cold storage units",
+        "unit": "kg",
+        "minCapacity": 10,
+        "maxCapacity": 10000,
+        "installationEmissionFactor": 3,
+        "operatingEmissions": 25,
+        "refrigerantRemainingAtDisposal": 100,
+        "recoveryEfficiency": 90
+    },
+    {
+        "name": "Chillers",
+        "description": "Commercial chillers",
+        "unit": "kg",
+        "minCapacity": 10,
+        "maxCapacity": 2000,
+        "installationEmissionFactor": 1,
+        "operatingEmissions": 15,
+        "refrigerantRemainingAtDisposal": 100,
+        "recoveryEfficiency": 95
+    },
+    {
+        "name": "Residential/Commercial A/C",
+        "description": "Residential and commercial units, including heat pumps",
+        "unit": "kg",
+        "minCapacity": 0.5,
+        "maxCapacity": 100,
+        "installationEmissionFactor": 1,
+        "operatingEmissions": 10,
+        "refrigerantRemainingAtDisposal": 80,
+        "recoveryEfficiency": 80
+    },
+    {
+        "name": "Maritime A/C Units",
+        "description": "Maritime A/C units",
+        "unit": "kg",
+        "minCapacity": 5,
+        "maxCapacity": 6500,
+        "installationEmissionFactor": 1,
+        "operatingEmissions": 40,
+        "refrigerantRemainingAtDisposal": 50,
+        "recoveryEfficiency": 50
+    },
+    {
+        "name": "Railway A/C Units",
+        "description": "Railway A/C Units",
+        "unit": "kg",
+        "minCapacity": 10,
+        "maxCapacity": 30,
+        "installationEmissionFactor": 1,
+        "operatingEmissions": 20,
+        "refrigerantRemainingAtDisposal": 50,
+        "recoveryEfficiency": 50
+    },
+    {
+        "name": "Buses A/C Units",
+        "description": "Buses A/C Units",
+        "unit": "kg",
+        "minCapacity": 4,
+        "maxCapacity": 18,
+        "installationEmissionFactor": 1,
+        "operatingEmissions": 20,
+        "refrigerantRemainingAtDisposal": 50,
+        "recoveryEfficiency": 50
+    },
+    {
+        "name": "Other Mobile A/C Units",
+        "description": "All other mobile A/C units",
+        "unit": "kg",
+        "minCapacity": 0.5,
+        "maxCapacity": 2,
+        "installationEmissionFactor": 1,
+        "operatingEmissions": 20,
+        "refrigerantRemainingAtDisposal": 50,
+        "recoveryEfficiency": 50
+    }
+]

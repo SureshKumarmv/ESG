@@ -1,0 +1,34 @@
+{
+    "2021": {
+        "Plug-in Hybrid Electric Vehicle": {
+            "Electricity": {
+                "kgco2e": {
+                    "kwh": 0.207074288590604
+                }
+            }
+        },
+        "Battery Electric Vehicle": {
+            "Electricity": {
+                "kgco2e": {
+                    "kwh": 0.8
+                }
+            }
+        }
+    },
+    "2022": {
+        "Plug-in Hybrid Electric Vehicle": {
+            "Electricity": {
+                "kgco2e": {
+                    "kwh": 0.1
+                }
+            }
+        },
+        "Battery Electric Vehicle": {
+            "Electricity": {
+                "kgco2e": {
+                    "kwh": 0.5
+                }
+            }
+        }
+    }
+}

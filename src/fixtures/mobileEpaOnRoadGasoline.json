@@ -1,0 +1,497 @@
+{
+    "2024": {
+        "On road": {
+            "Gasoline Passenger Cars": {
+                "Model_Year": {
+                    "1973": {
+                        "CH4 Kg per vehicle-mile": 0.0001696,
+                        "N2O Kg per vehicle-mile": 0.0000197
+                    },
+                    "1975": {
+                        "CH4 Kg per vehicle-mile": 0.00014232,
+                        "N2O Kg per vehicle-mile": 0.00004426
+                    },
+                    "1976": {
+                        "CH4 Kg per vehicle-mile": 0.000140615,
+                        "N2O Kg per vehicle-mile": 0.000045795
+                    },
+                    "1978": {
+                        "CH4 Kg per vehicle-mile": 0.00013891,
+                        "N2O Kg per vehicle-mile": 0.00004733
+                    },
+                    "1980": {
+                        "CH4 Kg per vehicle-mile": 0.000132648,
+                        "N2O Kg per vehicle-mile": 0.000049866
+                    },
+                    "1981": {
+                        "CH4 Kg per vehicle-mile": 0.000080165,
+                        "N2O Kg per vehicle-mile": 0.000062555
+                    },
+                    "1982": {
+                        "CH4 Kg per vehicle-mile": 0.000079514,
+                        "N2O Kg per vehicle-mile": 0.000062698
+                    },
+                    "1983": {
+                        "CH4 Kg per vehicle-mile": 0.000078212,
+                        "N2O Kg per vehicle-mile": 0.000062984
+                    },
+                    "1984": {
+                        "CH4 Kg per vehicle-mile": 0.0000704,
+                        "N2O Kg per vehicle-mile": 0.0000647
+                    },
+                    "1994": {
+                        "CH4 Kg per vehicle-mile": 0.00006174,
+                        "N2O Kg per vehicle-mile": 0.00006034
+                    },
+                    "1995": {
+                        "CH4 Kg per vehicle-mile": 0.00005308,
+                        "N2O Kg per vehicle-mile": 0.00005598
+                    },
+                    "1996": {
+                        "CH4 Kg per vehicle-mile": 0.000043394,
+                        "N2O Kg per vehicle-mile": 0.000050276
+                    },
+                    "1997": {
+                        "CH4 Kg per vehicle-mile": 0.000033708,
+                        "N2O Kg per vehicle-mile": 0.000044572
+                    },
+                    "1998": {
+                        "CH4 Kg per vehicle-mile": 0.000024022,
+                        "N2O Kg per vehicle-mile": 0.000038868
+                    },
+                    "1999": {
+                        "CH4 Kg per vehicle-mile": 0.000021457,
+                        "N2O Kg per vehicle-mile": 0.000035508
+                    },
+                    "2000": {
+                        "CH4 Kg per vehicle-mile": 0.000017524,
+                        "N2O Kg per vehicle-mile": 0.000030356
+                    },
+                    "2001": {
+                        "CH4 Kg per vehicle-mile": 0.000010513,
+                        "N2O Kg per vehicle-mile": 0.000021172
+                    },
+                    "2002": {
+                        "CH4 Kg per vehicle-mile": 0.000010171,
+                        "N2O Kg per vehicle-mile": 0.000020724
+                    },
+                    "2003": {
+                        "CH4 Kg per vehicle-mile": 0.000009504,
+                        "N2O Kg per vehicle-mile": 0.000018087
+                    },
+                    "2004": {
+                        "CH4 Kg per vehicle-mile": 0.00000784,
+                        "N2O Kg per vehicle-mile": 0.000008488
+                    },
+                    "2005": {
+                        "CH4 Kg per vehicle-mile": 0.00000751,
+                        "N2O Kg per vehicle-mile": 0.000006706
+                    },
+                    "2006": {
+                        "CH4 Kg per vehicle-mile": 0.000007634,
+                        "N2O Kg per vehicle-mile": 0.000007451
+                    },
+                    "2007": {
+                        "CH4 Kg per vehicle-mile": 0.000007226,
+                        "N2O Kg per vehicle-mile": 0.000005213
+                    },
+                    "2008": {
+                        "CH4 Kg per vehicle-mile": 0.000007172,
+                        "N2O Kg per vehicle-mile": 0.000004904
+                    },
+                    "2009": {
+                        "CH4 Kg per vehicle-mile": 0.000007114,
+                        "N2O Kg per vehicle-mile": 0.000004585
+                    },
+                    "2010": {
+                        "CH4 Kg per vehicle-mile": 0.000007112,
+                        "N2O Kg per vehicle-mile": 0.00000458
+                    },
+                    "2011": {
+                        "CH4 Kg per vehicle-mile": 0.000007116,
+                        "N2O Kg per vehicle-mile": 0.00000459
+                    },
+                    "2012": {
+                        "CH4 Kg per vehicle-mile": 0.000007118,
+                        "N2O Kg per vehicle-mile": 0.000004595
+                    },
+                    "2013": {
+                        "CH4 Kg per vehicle-mile": 0.00000712,
+                        "N2O Kg per vehicle-mile": 0.0000046
+                    },
+                    "2014": {
+                        "CH4 Kg per vehicle-mile": 0.000007099,
+                        "N2O Kg per vehicle-mile": 0.000004579
+                    },
+                    "2015": {
+                        "CH4 Kg per vehicle-mile": 0.000006837,
+                        "N2O Kg per vehicle-mile": 0.000004239
+                    },
+                    "2016": {
+                        "CH4 Kg per vehicle-mile": 0.00000649,
+                        "N2O Kg per vehicle-mile": 0.000003781
+                    },
+                    "2017": {
+                        "CH4 Kg per vehicle-mile": 0.000005365,
+                        "N2O Kg per vehicle-mile": 0.00000179
+                    },
+                    "2018": {
+                        "CH4 Kg per vehicle-mile": 0.00000524,
+                        "N2O Kg per vehicle-mile": 0.000001585
+                    },
+                    "2019": {
+                        "CH4 Kg per vehicle-mile": 0.000005105,
+                        "N2O Kg per vehicle-mile": 0.000001452
+                    },
+                    "2020": {
+                        "CH4 Kg per vehicle-mile": 0.000005,
+                        "N2O Kg per vehicle-mile": 0.00000135
+                    },
+                    "2021": {
+                        "CH4 Kg per vehicle-mile": 0.00000505,
+                        "N2O Kg per vehicle-mile": 0.000001412
+                    }
+                },
+                "co2Factor": {
+                    "gallon": 8.78
+                },
+                "averge": {
+                    "mpg": 24.8
+                }
+            },
+            "Gasoline Light-Duty Trucks(Vans, Pickup Trucks, SUVs)": {
+                "Model_Year": {
+                    "1975": {
+                        "CH4 Kg per vehicle-mile": 0.00016336,
+                        "N2O Kg per vehicle-mile": 0.00005127
+                    },
+                    "1976": {
+                        "CH4 Kg per vehicle-mile": 0.00015944,
+                        "N2O Kg per vehicle-mile": 0.00005548
+                    },
+                    "1981": {
+                        "CH4 Kg per vehicle-mile": 0.0001479,
+                        "N2O Kg per vehicle-mile": 0.000065985
+                    },
+                    "1982": {
+                        "CH4 Kg per vehicle-mile": 0.0001442,
+                        "N2O Kg per vehicle-mile": 0.00006807
+                    },
+                    "1983": {
+                        "CH4 Kg per vehicle-mile": 0.0001368,
+                        "N2O Kg per vehicle-mile": 0.00007224
+                    },
+                    "1984": {
+                        "CH4 Kg per vehicle-mile": 0.0001294,
+                        "N2O Kg per vehicle-mile": 0.00007641
+                    },
+                    "1985": {
+                        "CH4 Kg per vehicle-mile": 0.000122,
+                        "N2O Kg per vehicle-mile": 0.00008058
+                    },
+                    "1986": {
+                        "CH4 Kg per vehicle-mile": 0.0001146,
+                        "N2O Kg per vehicle-mile": 0.00008475
+                    },
+                    "1994": {
+                        "CH4 Kg per vehicle-mile": 0.00006464,
+                        "N2O Kg per vehicle-mile": 0.0000982
+                    },
+                    "1995": {
+                        "CH4 Kg per vehicle-mile": 0.00005168,
+                        "N2O Kg per vehicle-mile": 0.0000908
+                    },
+                    "1996": {
+                        "CH4 Kg per vehicle-mile": 0.0000452,
+                        "N2O Kg per vehicle-mile": 0.0000871
+                    },
+                    "1997": {
+                        "CH4 Kg per vehicle-mile": 0.0000452,
+                        "N2O Kg per vehicle-mile": 0.0000871
+                    },
+                    "1998": {
+                        "CH4 Kg per vehicle-mile": 0.000041248,
+                        "N2O Kg per vehicle-mile": 0.000078676
+                    },
+                    "1999": {
+                        "CH4 Kg per vehicle-mile": 0.000033344,
+                        "N2O Kg per vehicle-mile": 0.000061828
+                    },
+                    "2000": {
+                        "CH4 Kg per vehicle-mile": 0.000033952,
+                        "N2O Kg per vehicle-mile": 0.000063124
+                    },
+                    "2001": {
+                        "CH4 Kg per vehicle-mile": 0.000022096,
+                        "N2O Kg per vehicle-mile": 0.000037852
+                    },
+                    "2002": {
+                        "CH4 Kg per vehicle-mile": 0.000024224,
+                        "N2O Kg per vehicle-mile": 0.000042388
+                    },
+                    "2003": {
+                        "CH4 Kg per vehicle-mile": 0.000022112,
+                        "N2O Kg per vehicle-mile": 0.000037312
+                    },
+                    "2004": {
+                        "CH4 Kg per vehicle-mile": 0.000011472,
+                        "N2O Kg per vehicle-mile": 0.00000875
+                    },
+                    "2005": {
+                        "CH4 Kg per vehicle-mile": 0.000010544,
+                        "N2O Kg per vehicle-mile": 0.00000641
+                    },
+                    "2006": {
+                        "CH4 Kg per vehicle-mile": 0.0000108,
+                        "N2O Kg per vehicle-mile": 0.000007956
+                    },
+                    "2007": {
+                        "CH4 Kg per vehicle-mile": 0.000010272,
+                        "N2O Kg per vehicle-mile": 0.000006072
+                    },
+                    "2008": {
+                        "CH4 Kg per vehicle-mile": 0.000009456,
+                        "N2O Kg per vehicle-mile": 0.000003588
+                    },
+                    "2009": {
+                        "CH4 Kg per vehicle-mile": 0.000009456,
+                        "N2O Kg per vehicle-mile": 0.000003588
+                    },
+                    "2010": {
+                        "CH4 Kg per vehicle-mile": 0.00000952,
+                        "N2O Kg per vehicle-mile": 0.00000346
+                    },
+                    "2011": {
+                        "CH4 Kg per vehicle-mile": 0.000009568,
+                        "N2O Kg per vehicle-mile": 0.000003364
+                    },
+                    "2012": {
+                        "CH4 Kg per vehicle-mile": 0.000009616,
+                        "N2O Kg per vehicle-mile": 0.000003268
+                    },
+                    "2013": {
+                        "CH4 Kg per vehicle-mile": 0.000009504,
+                        "N2O Kg per vehicle-mile": 0.000003492
+                    },
+                    "2014": {
+                        "CH4 Kg per vehicle-mile": 0.000009549,
+                        "N2O Kg per vehicle-mile": 0.000003319
+                    },
+                    "2015": {
+                        "CH4 Kg per vehicle-mile": 0.000009438,
+                        "N2O Kg per vehicle-mile": 0.000003126
+                    },
+                    "2016": {
+                        "CH4 Kg per vehicle-mile": 0.000009104,
+                        "N2O Kg per vehicle-mile": 0.000002906
+                    },
+                    "2017": {
+                        "CH4 Kg per vehicle-mile": 0.000008392,
+                        "N2O Kg per vehicle-mile": 0.000001775
+                    },
+                    "2018": {
+                        "CH4 Kg per vehicle-mile": 0.000008118,
+                        "N2O Kg per vehicle-mile": 0.000001515
+                    },
+                    "2019": {
+                        "CH4 Kg per vehicle-mile": 0.000007988,
+                        "N2O Kg per vehicle-mile": 0.000001335
+                    },
+                    "2020": {
+                        "CH4 Kg per vehicle-mile": 0.00000785,
+                        "N2O Kg per vehicle-mile": 0.0000012
+                    },
+                    "2021": {
+                        "CH4 Kg per vehicle-mile": 0.00000785,
+                        "N2O Kg per vehicle-mile": 0.0000012
+                    }
+                },
+                "co2Factor": {
+                    "gallon": 8.78
+                },
+                "averge": {
+                    "mpg": 24.8
+                }
+            },
+            "Gasoline Heavy-Duty Vehicles": {
+                "Model_Year": {
+                    "1987": {
+                        "CH4 Kg per vehicle-mile": 0.00036746,
+                        "N2O Kg per vehicle-mile": 0.00008489
+                    },
+                    "1996": {
+                        "CH4 Kg per vehicle-mile": 0.000127775,
+                        "N2O Kg per vehicle-mile": 0.000168025
+                    },
+                    "1997": {
+                        "CH4 Kg per vehicle-mile": 0.000092385,
+                        "N2O Kg per vehicle-mile": 0.000172595
+                    },
+                    "1998": {
+                        "CH4 Kg per vehicle-mile": 0.0000655,
+                        "N2O Kg per vehicle-mile": 0.000175
+                    },
+                    "1999": {
+                        "CH4 Kg per vehicle-mile": 0.00006479,
+                        "N2O Kg per vehicle-mile": 0.000172432
+                    },
+                    "2000": {
+                        "CH4 Kg per vehicle-mile": 0.000063015,
+                        "N2O Kg per vehicle-mile": 0.000166012
+                    },
+                    "2001": {
+                        "CH4 Kg per vehicle-mile": 0.00005769,
+                        "N2O Kg per vehicle-mile": 0.000146752
+                    },
+                    "2002": {
+                        "CH4 Kg per vehicle-mile": 0.00006337,
+                        "N2O Kg per vehicle-mile": 0.000167296
+                    },
+                    "2003": {
+                        "CH4 Kg per vehicle-mile": 0.000060172,
+                        "N2O Kg per vehicle-mile": 0.000155289
+                    },
+                    "2004": {
+                        "CH4 Kg per vehicle-mile": 0.000029799,
+                        "N2O Kg per vehicle-mile": 0.000016383
+                    },
+                    "2005": {
+                        "CH4 Kg per vehicle-mile": 0.000029745,
+                        "N2O Kg per vehicle-mile": 0.000008265
+                    },
+                    "2006": {
+                        "CH4 Kg per vehicle-mile": 0.00002985,
+                        "N2O Kg per vehicle-mile": 0.00002405
+                    },
+                    "2007": {
+                        "CH4 Kg per vehicle-mile": 0.000032238,
+                        "N2O Kg per vehicle-mile": 0.0000015
+                    },
+                    "2008": {
+                        "CH4 Kg per vehicle-mile": 0.000034024,
+                        "N2O Kg per vehicle-mile": 0.0000015
+                    },
+                    "2009": {
+                        "CH4 Kg per vehicle-mile": 0.00003393,
+                        "N2O Kg per vehicle-mile": 0.0000015
+                    },
+                    "2010": {
+                        "CH4 Kg per vehicle-mile": 0.000031956,
+                        "N2O Kg per vehicle-mile": 0.0000015
+                    },
+                    "2011": {
+                        "CH4 Kg per vehicle-mile": 0.000030358,
+                        "N2O Kg per vehicle-mile": 0.0000015
+                    },
+                    "2012": {
+                        "CH4 Kg per vehicle-mile": 0.000031298,
+                        "N2O Kg per vehicle-mile": 0.0000015
+                    },
+                    "2013": {
+                        "CH4 Kg per vehicle-mile": 0.000031298,
+                        "N2O Kg per vehicle-mile": 0.0000015
+                    },
+                    "2014": {
+                        "CH4 Kg per vehicle-mile": 0.000031486,
+                        "N2O Kg per vehicle-mile": 0.0000015
+                    },
+                    "2015": {
+                        "CH4 Kg per vehicle-mile": 0.000033184,
+                        "N2O Kg per vehicle-mile": 0.000002105
+                    },
+                    "2016": {
+                        "CH4 Kg per vehicle-mile": 0.000032073,
+                        "N2O Kg per vehicle-mile": 0.000006138
+                    },
+                    "2017": {
+                        "CH4 Kg per vehicle-mile": 0.000032873,
+                        "N2O Kg per vehicle-mile": 0.000008379
+                    },
+                    "2018": {
+                        "CH4 Kg per vehicle-mile": 0.000032572,
+                        "N2O Kg per vehicle-mile": 0.000008231
+                    },
+                    "2019": {
+                        "CH4 Kg per vehicle-mile": 0.00003295,
+                        "N2O Kg per vehicle-mile": 0.00000908
+                    },
+                    "2020": {
+                        "CH4 Kg per vehicle-mile": 0.00003315,
+                        "N2O Kg per vehicle-mile": 0.00000995
+                    },
+                    "2021": {
+                        "CH4 Kg per vehicle-mile": 0.00003315,
+                        "N2O Kg per vehicle-mile": 0.00000995
+                    }
+                },
+                "co2Factor": {
+                    "gallon": 8.78
+                },
+                "averge": {
+                    "mpg": 24.8
+                }
+            }
+        },
+        "On road diesel and alternative fuel": {
+            "Passenger Cars-diesel": {
+                "Model_Year": {
+                    "1984": {
+                        "CH4 Kg per vehicle-mile": 0.0006,
+                        "N2O Kg per vehicle-mile": 0.0012
+                    }
+                },
+                "co2Factor": {
+                    "gallon": 8.78
+                },
+                "averge": {
+                    "mpg": 24.8
+                }
+            },
+            "Light-Duty Cars-methnol": {
+                "ch4Factor": {
+                    "CH4 Kg per vehicle-mile": 0.013
+                },
+                "n2ofactor": {
+                    "N2O Kg per vehicle-mile": 0.004
+                },
+                "co2Factor": {
+                    "gallon": 8.78
+                },
+                "averge": {
+                    "mpg": 24.8
+                }
+            }
+        },
+
+        "Non Road Vehicle": {
+            "Ships and Boats-Residual Fuel Oil": {
+                "ch4Factor": {
+                    "CH4 Kg per vehicle-mile": 1.10456155262785
+                },
+                "n2ofactor": {
+                    "N2O Kg per vehicle-mile": 0.314567691363272
+                },
+                "co2Factor": {
+                    "gallon": 8.78
+                },
+                "averge": {
+                    "mpg": 24.8
+                }
+            },
+            "Aircraft-Aviation Gasoline": {
+                "ch4Factor": {
+                    "CH4 Kg per vehicle-mile": 4.63579887328929
+                },
+                "n2ofactor": {
+                    "N2O Kg per vehicle-mile": 0.0781471212836244
+                },
+                "co2Factor": {
+                    "gallon": 8.78
+                },
+                "averge": {
+                    "mpg": 24.8
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "2024": {
+        "Vans": {
+            "Class I (up to 1.305 tonnes)": {
+                "Diesel": {
+                    "Km": 0.142124026845638,
+                    "Miles": 0.228748985234899
+                },
+                "Petrol": {
+                    "Km": 0.182174538255034,
+                    "Miles": 0.293178116778524
+                },
+                "CNG": {
+                    "Km": 0,
+                    "Miles": 0
+                },
+                "LPG": {
+                    "Km": 0,
+                    "Miles": 0
+                },
+                "Unknown": {
+                    "Km": 0,
+                    "Miles": 0
+                },
+                "Plug-in Hybrid Electric Vehicle": {
+                    "Km": 0,
+                    "Miles": 0
+                },
+                "Battery Electric Vehicle": {
+                    "Km": 0,
+                    "Miles": 0
+                }
+            },
+            "Class II (1.305 to 1.74 tonnes)": {
+                "Diesel": {
+                    "Km": 0.174054026845638,
+                    "Miles": 0.280128985234899
+                },
+                "Petrol": {
+                    "Km": 0.195944538255034,
+                    "Miles": 0.315338116778524
+                },
+                "CNG": {
+                    "Km": 0,
+                    "Miles": 0
+                },
+                "LPG": {
+                    "Km": 0,
+                    "Miles": 0
+                },
+                "Unknown": {
+                    "Km": 0,
+                    "Miles": 0
+                },
+                "Plug-in Hybrid Electric Vehicle": {
+                    "Km": 0,
+                    "Miles": 0
+                },
+                "Battery Electric Vehicle": {
+                    "Km": 0,
+                    "Miles": 0
+                }
+            },
+            "Class III (1.74 to 3.5 tonnes)": {
+                "Diesel": {
+                    "Km": 0.253464026845638,
+                    "Miles": 0.407918985234899
+                },
+                "Petrol": {
+                    "Km": 0.314444538255034,
+                    "Miles": 0.506048116778524
+                },
+                "CNG": {
+                    "Km": 0,
+                    "Miles": 0
+                },
+                "LPG": {
+                    "Km": 0,
+                    "Miles": 0
+                },
+                "Unknown": {
+                    "Km": 0,
+                    "Miles": 0
+                },
+                "Plug-in Hybrid Electric Vehicle": {
+                    "Km": 0,
+                    "Miles": 0
+                },
+                "Battery Electric Vehicle": {
+                    "Km": 0,
+                    "Miles": 0
+                }
+            }
+        },
+        "HGV (all diesel)": {
+            "Rigid (>3.5 - 7.5 tonnes)": {
+                "0% Laden": {
+                    "Km": 0.452209785234899,
+                    "Miles": 0.727753897986577
+                },
+                "50% Laden": {
+                    "Km": 0.491059785234899,
+                    "Miles": 0.790273897986577
+                },
+                "100% Laden": {
+                    "Km": 0.529909785234899,
+                    "Miles": 0.852803897986577
+                },
+                "Average laden": {
+                    "Km": 0.485619785234899,
+                    "Miles": 0.781523897986577
+                }
+            },
+            "Rigid (>7.5 tonnes-17 tonnes)": {
+                "0% Laden": {
+                    "Km": 0.540877118120805,
+                    "Miles": 0.870455040268456
+                },
+                "50% Laden": {
+                    "Km": 0.617197118120805,
+                    "Miles": 0.993285040268456
+                },
+                "100% Laden": {
+                    "Km": 0.693517118120805,
+                    "Miles": 1.11611504026846
+                },
+                "Average laden": {
+                    "Km": 0.592767118120805,
+                    "Miles": 0.953975040268456
+                }
+            }
+        },
+        "HGVs refrigerated (all diesel)": {
+            "Rigid (>3.5 - 7.5 tonnes)": {
+                "0% Laden": {
+                    "Km": 0.538439785234899,
+                    "Miles": 0.866523897986577
+                },
+                "50% Laden": {
+                    "Km": 0.584779785234899,
+                    "Miles": 0.941113897986577
+                },
+                "100% Laden": {
+                    "Km": 0.631129785234899,
+                    "Miles": 1.01570389798658
+                },
+                "Average laden": {
+                    "Km": 0.578299785234899,
+                    "Miles": 0.930673897986577
+                }
+            },
+            "Rigid (>7.5 tonnes-17 tonnes)": {
+                "0% Laden": {
+                    "Km": 0.643987118120805,
+                    "Miles": 1.03639504026846
+                },
+                "50% Laden": {
+                    "Km": 0.735037118120805,
+                    "Miles": 1.18293504026846
+                },
+                "100% Laden": {
+                    "Km": 0.826087118120805,
+                    "Miles": 1.32946504026846
+                },
+                "Average laden": {
+                    "Km": 0.69928,
+                    "Miles": 1.12538
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Domestic Refrigeration",
+        "description": "Domestic refrigeration units",
+        "unit": "kg",
+        "minCharge": 0.05,
+        "maxCharge": 0.5,
+        "minAssemblyRate": 0.2,
+        "maxAssemblyRate": 1,
+        "minAnnualLeakageRate": 0.1,
+        "maxAnnualLeakageRate": 0.5,
+        "minRecycylingEfficiency": 70,
+        "maxRecycylingEfficiency": 70
+    },
+    {
+        "name": "Stand-Alone Commercial",
+        "description": "Stand alone commercial applications",
+        "unit": "kg",
+        "minCharge": 0.2,
+        "maxCharge": 6,
+        "minAssemblyRate": 0.5,
+        "maxAssemblyRate": 3,
+        "minAnnualLeakageRate": 1,
+        "maxAnnualLeakageRate": 10,
+        "minRecycylingEfficiency": 70,
+        "maxRecycylingEfficiency": 80
+    },
+    {
+        "name": "Medium/Large Commercial",
+        "description": "Medium and large commercial refrigeration units",
+        "unit": "kg",
+        "minCharge": 50,
+        "maxCharge": 2000,
+        "minAssemblyRate": 0.5,
+        "maxAssemblyRate": 3,
+        "minAnnualLeakageRate": 10,
+        "maxAnnualLeakageRate": 30,
+        "minRecycylingEfficiency": 80,
+        "maxRecycylingEfficiency": 90
+    },
+    {
+        "name": "Transport Refrigeration",
+        "description": "Transportation refrigeration units",
+        "unit": "kg",
+        "minCharge": 3,
+        "maxCharge": 8,
+        "minAssemblyRate": 0.2,
+        "maxAssemblyRate": 1,
+        "minAnnualLeakageRate": 15,
+        "maxAnnualLeakageRate": 50,
+        "minRecycylingEfficiency": 70,
+        "maxRecycylingEfficiency": 80
+    },
+    {
+        "name": "Industrial Refrigeration",
+        "description": "Industrial, food processing and cold storage units",
+        "unit": "kg",
+        "minCharge": 10,
+        "maxCharge": 10000,
+        "minAssemblyRate": 0.5,
+        "maxAssemblyRate": 3,
+        "minAnnualLeakageRate": 7,
+        "maxAnnualLeakageRate": 25,
+        "minRecycylingEfficiency": 80,
+        "maxRecycylingEfficiency": 90
+    },
+    {
+        "name": "Chillers",
+        "description": "Commercial chillers",
+        "unit": "kg",
+        "minCharge": 10,
+        "maxCharge": 2000,
+        "minAssemblyRate": 0.2,
+        "maxAssemblyRate": 1,
+        "minAnnualLeakageRate": 2,
+        "maxAnnualLeakageRate": 15,
+        "minRecycylingEfficiency": 80,
+        "maxRecycylingEfficiency": 95
+    },
+    {
+        "name": "Residential/Commercial A/C",
+        "description": "Residential and commercial units, including heat pumps",
+        "unit": "kg",
+        "minCharge": 0.5,
+        "maxCharge": 100,
+        "minAssemblyRate": 0.2,
+        "maxAssemblyRate": 1,
+        "minAnnualLeakageRate": 1,
+        "maxAnnualLeakageRate": 5,
+        "minRecycylingEfficiency": 70,
+        "maxRecycylingEfficiency": 80
+    }
+]

@@ -1,0 +1,34 @@
+{
+    "2024": {
+        "Aviation Spirit": {
+            "Net CV": {
+                "kWh/litre": 9.332
+            }
+        },
+        "Aviation Turbine Fuel": {
+            "Net CV": {
+                "kWh/litre": 9.738
+            }
+        },
+        "Burning Oil": {
+            "Net CV": {
+                "kWh/litre": 9.786
+            }
+        },
+        "Butane": {
+            "Net CV": {
+                "kWh/litre": 7.223
+            }
+        },
+        "Coal (domestic)": {
+            "Net CV": {
+                "kWh/litre": 9332
+            }
+        },
+        "Diesel (100% mineral diesel)": {
+            "Net CV": {
+                "kWh/litre": 9.921
+            }
+        }
+    }
+}

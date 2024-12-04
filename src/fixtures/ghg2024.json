@@ -1,0 +1,338 @@
+[
+    {
+        "name": "CO2",
+        "chemicalFormula": "CO2",
+        "value": 1,
+        "year": 2024
+    },
+    {
+        "name": "CH4",
+        "chemicalFormula": "CH4",
+        "value": 21,
+        "year": 2024
+    },
+    {
+        "name": "N2O",
+        "chemicalFormula": "N2O",
+        "value": 310,
+        "year": 2024
+    },
+    {
+        "name": "HFC-23",
+        "chemicalFormula": "CHF3",
+        "value": 11700,
+        "year": 2024
+    },
+    {
+        "name": "HFC-32",
+        "chemicalFormula": "CH2F2",
+        "value": 650,
+        "year": 2024
+    },
+    {
+        "name": "HFC-125",
+        "chemicalFormula": "C2HF5",
+        "value": 2800,
+        "year": 2024
+    },
+    {
+        "name": "HFC-134a",
+        "chemicalFormula": "C2H2F4",
+        "value": 1300,
+        "year": 2024
+    },
+    {
+        "name": "HFC-143a",
+        "chemicalFormula": "C2H3F3",
+        "value": 3800,
+        "year": 2024
+    },
+    {
+        "name": "HFC-152a",
+        "chemicalFormula": "CH3CF2H",
+        "value": 140,
+        "year": 2024
+    },
+    {
+        "name": "HFC-236fa",
+        "chemicalFormula": "C3H2F6",
+        "value": 6300,
+        "year": 2024
+    },
+    {
+        "name": "R-401A",
+        "chemicalFormula": "R-401A",
+        "value": 18,
+        "year": 2024
+    },
+    {
+        "name": "R-401B",
+        "chemicalFormula": "R-401B",
+        "value": 15,
+        "year": 2024
+    },
+    {
+        "name": "R-401C",
+        "chemicalFormula": "R-401C",
+        "value": 21,
+        "year": 2024
+    },
+    {
+        "name": "R-402A",
+        "chemicalFormula": "R-402A",
+        "value": 1680,
+        "year": 2024
+    },
+    {
+        "name": "R-402B",
+        "chemicalFormula": "R-402B",
+        "value": 1064,
+        "year": 2024
+    },
+    {
+        "name": "R-403A",
+        "chemicalFormula": "R-403A",
+        "value": 1400,
+        "year": 2024
+    },
+    {
+        "name": "R-403B",
+        "chemicalFormula": "R-403B",
+        "value": 2730,
+        "year": 2024
+    },
+    {
+        "name": "R-404A",
+        "chemicalFormula": "R-404A",
+        "value": 3260,
+        "year": 2024
+    },
+    {
+        "name": "R-406A",
+        "chemicalFormula": "R-406A",
+        "value": 0,
+        "year": 2024
+    },
+    {
+        "name": "R-407A",
+        "chemicalFormula": "R-407A",
+        "value": 1770,
+        "year": 2024
+    },
+    {
+        "name": "R-407B",
+        "chemicalFormula": "R-407B",
+        "value": 2285,
+        "year": 2024
+    },
+    {
+        "name": "R-407C",
+        "chemicalFormula": "R-407C",
+        "value": 1526,
+        "year": 2024
+    },
+    {
+        "name": "R-407D",
+        "chemicalFormula": "R-407D",
+        "value": 1428,
+        "year": 2024
+    },
+    {
+        "name": "R-407E",
+        "chemicalFormula": "R-407E",
+        "value": 1363,
+        "year": 2024
+    },
+    {
+        "name": "R-408A",
+        "chemicalFormula": "R-408A",
+        "value": 1944,
+        "year": 2024
+    },
+    {
+        "name": "R-409A",
+        "chemicalFormula": "R-409A",
+        "value": 0,
+        "year": 2024
+    },
+    {
+        "name": "R-409B",
+        "chemicalFormula": "R-409B",
+        "value": 0,
+        "year": 2024
+    },
+    {
+        "name": "R-410A",
+        "chemicalFormula": "R-410A",
+        "value": 1725,
+        "year": 2024
+    },
+    {
+        "name": "R-410B",
+        "chemicalFormula": "R-410B",
+        "value": 1833,
+        "year": 2024
+    },
+    {
+        "name": "R-411A",
+        "chemicalFormula": "R-411A",
+        "value": 15,
+        "year": 2024
+    },
+    {
+        "name": "R-411B",
+        "chemicalFormula": "R-411B",
+        "value": 4,
+        "year": 2024
+    },
+    {
+        "name": "R-412A",
+        "chemicalFormula": "R-412A",
+        "value": 350,
+        "year": 2024
+    },
+    {
+        "name": "R-413A",
+        "chemicalFormula": "R-413A",
+        "value": 1774,
+        "year": 2024
+    },
+    {
+        "name": "R-414A",
+        "chemicalFormula": "R-414A",
+        "value": 0,
+        "year": 2024
+    },
+    {
+        "name": "R-414B",
+        "chemicalFormula": "R-414B",
+        "value": 0,
+        "year": 2024
+    },
+    {
+        "name": "R-415A",
+        "chemicalFormula": "R-415A",
+        "value": 25,
+        "year": 2024
+    },
+    {
+        "name": "R-415B",
+        "chemicalFormula": "R-415B",
+        "value": 105,
+        "year": 2024
+    },
+    {
+        "name": "R-416A",
+        "chemicalFormula": "R-416A",
+        "value": 767,
+        "year": 2024
+    },
+    {
+        "name": "R-417A",
+        "chemicalFormula": "R-417A",
+        "value": 1955,
+        "year": 2024
+    },
+    {
+        "name": "R-418A",
+        "chemicalFormula": "R-418A",
+        "value": 4,
+        "year": 2024
+    },
+    {
+        "name": "R-419A",
+        "chemicalFormula": "R-419A",
+        "value": 2403,
+        "year": 2024
+    },
+    {
+        "name": "R-420A",
+        "chemicalFormula": "R-420A",
+        "value": 1144,
+        "year": 2024
+    },
+    {
+        "name": "R-500",
+        "chemicalFormula": "R-500",
+        "value": 37,
+        "year": 2024
+    },
+    {
+        "name": "R-501",
+        "chemicalFormula": "R-501",
+        "value": 0,
+        "year": 2024
+    },
+    {
+        "name": "R-502",
+        "chemicalFormula": "R-502",
+        "value": 0,
+        "year": 2024
+    },
+    {
+        "name": "R-503",
+        "chemicalFormula": "R-503",
+        "value": 4692,
+        "year": 2024
+    },
+    {
+        "name": "R-504",
+        "chemicalFormula": "R-504",
+        "value": 313,
+        "year": 2024
+    },
+    {
+        "name": "R-505",
+        "chemicalFormula": "R-505",
+        "value": 0,
+        "year": 2024
+    },
+    {
+        "name": "R-506",
+        "chemicalFormula": "R-506",
+        "value": 0,
+        "year": 2024
+    },
+    {
+        "name": "R-507 or R-507A",
+        "chemicalFormula": "R-507 or R-507A",
+        "value": 3300,
+        "year": 2024
+    },
+    {
+        "name": "R-508A",
+        "chemicalFormula": "R-508A",
+        "value": 10175,
+        "year": 2024
+    },
+    {
+        "name": "R-508B",
+        "chemicalFormula": "R-508B",
+        "value": 10350,
+        "year": 2024
+    },
+    {
+        "name": "R-509 or R-509A",
+        "chemicalFormula": "R-509 or R-509A",
+        "value": 3920,
+        "year": 2024
+    },
+    {
+        "name": "PFC-218 (C3F8)",
+        "chemicalFormula": "C3F8",
+        "value": 7000,
+        "year": 2024
+    },
+    {
+        "name": "PFC-116 (C2F6)",
+        "chemicalFormula": "C2F6",
+        "value": 9200,
+        "year": 2024
+    },
+    {
+        "name": "PFC-14 (CF4)",
+        "chemicalFormula": "CF4",
+        "value": 6500,
+        "year": 2024
+    }
+]

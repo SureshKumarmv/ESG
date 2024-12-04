@@ -1,0 +1,1504 @@
+{
+    "2022": {
+        "Cars (by market segment)": {
+            "Mini": {
+                "Diesel": {
+                    "Kg CO2e": {
+                        "Km": "0.108294",
+                        "Miles": "0.17429"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.10641",
+                        "Miles": "0.17125"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.000004",
+                        "Miles": "0.00001"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00188",
+                        "Miles": "0.00303"
+                    }
+                },
+                "Petrol": {
+                    "Kg CO2e": {
+                        "Km": "0.13421",
+                        "Miles": "0.21598"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.13353",
+                        "Miles": "0.21489"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00032",
+                        "Miles": "0.00051"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00036",
+                        "Miles": "0.00058"
+                    }
+                },
+                "Unknown": {
+                    "Kg CO2e": {
+                        "Km": "0.134",
+                        "Miles": "0.21566"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.13331",
+                        "Miles": "0.21455"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00031",
+                        "Miles": "0.0005"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00038",
+                        "Miles": "0.00061"
+                    }
+                },
+                "Plug-in Hybrid Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "10",
+                        "Miles": "3"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "2",
+                        "Miles": "3"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "3",
+                        "Miles": ""
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": " ",
+                        "Miles": " "
+                    }
+                },
+                "Battery Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": " ",
+                        "Miles": " "
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": " ",
+                        "Miles": " "
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": " ",
+                        "Miles": "0.0"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": " ",
+                        "Miles": " "
+                    }
+                }
+            },
+
+            "SuperMini": {
+                "Diesel": {
+                    "Kg CO2e": {
+                        "Km": "0.132764",
+                        "Miles": "0.21368"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.13088",
+                        "Miles": "0.21064"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.000004",
+                        "Miles": "0.00001"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00188",
+                        "Miles": "0.00303"
+                    }
+                },
+                "Petrol": {
+                    "Kg CO2e": {
+                        "Km": "0.14802",
+                        "Miles": "0.23821"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.14734",
+                        "Miles": "0.23712"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00032",
+                        "Miles": "0.00051"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00036",
+                        "Miles": "0.00058"
+                    }
+                },
+                "Unknown": {
+                    "Kg CO2e": {
+                        "Km": "0.14601",
+                        "Miles": "0.23498"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.14515",
+                        "Miles": "0.2336"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00027",
+                        "Miles": "0.00043"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00059",
+                        "Miles": "0.00095"
+                    }
+                },
+                "Plug-in Hybrid Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.02216",
+                        "Miles": "0.03567"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.02202",
+                        "Miles": "0.03544"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00007",
+                        "Miles": "0.00012"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00007",
+                        "Miles": "0.00011"
+                    }
+                },
+                "Battery Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.0",
+                        "Miles": "0.0"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.0",
+                        "Miles": "0.0"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.0",
+                        "Miles": "0.0"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.0",
+                        "Miles": "0.0"
+                    }
+                }
+            },
+            "Lower Medium": {
+                "Diesel": {
+                    "Kg CO2e": {
+                        "Km": "0.144614",
+                        "Miles": "0.23274"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.14273",
+                        "Miles": "0.2297"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.000004",
+                        "Miles": "0.00001"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00188",
+                        "Miles": "0.00303"
+                    }
+                },
+                "Petrol": {
+                    "Kg CO2e": {
+                        "Km": "0.17162",
+                        "Miles": "0.2762"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.17094",
+                        "Miles": "0.27511"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00032",
+                        "Miles": "0.00051"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00036",
+                        "Miles": "0.00058"
+                    }
+                },
+                "Unknown": {
+                    "Kg CO2e": {
+                        "Km": "0.15893",
+                        "Miles": "0.25577"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.15765",
+                        "Miles": "0.25371"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00016",
+                        "Miles": "0.00026"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00112",
+                        "Miles": "0.0018"
+                    }
+                },
+                "Plug-in Hybrid Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.06258",
+                        "Miles": "0.10072"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.06216",
+                        "Miles": "0.10003"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00022",
+                        "Miles": "0.00036"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.0002",
+                        "Miles": "0.00033"
+                    }
+                },
+                "Battery Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": " ",
+                        "Miles": " "
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": " ",
+                        "Miles": " "
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": " ",
+                        "Miles": " "
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.0",
+                        "Miles": "0.0"
+                    }
+                }
+            },
+            "Upper Medium": {
+                "Diesel": {
+                    "Kg CO2e": {
+                        "Km": "0.161974",
+                        "Miles": "0.26068"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.16009",
+                        "Miles": "0.25764"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.000004",
+                        "Miles": "0.00001"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00188",
+                        "Miles": "0.00303"
+                    }
+                },
+                "Petrol": {
+                    "Kg CO2e": {
+                        "Km": "0.19923",
+                        "Miles": "0.32063"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.19855",
+                        "Miles": "0.31954"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00032",
+                        "Miles": "0.00051"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00036",
+                        "Miles": "0.00058"
+                    }
+                },
+                "Unknown": {
+                    "Kg CO2e": {
+                        "Km": "0.17031",
+                        "Miles": "0.27407"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.16868",
+                        "Miles": "0.27146"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00007",
+                        "Miles": "0.00011"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00156",
+                        "Miles": "0.0025"
+                    }
+                },
+                "Plug-in Hybrid Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.06667",
+                        "Miles": "0.10731"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.06621",
+                        "Miles": "0.10656"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00023",
+                        "Miles": "0.00037"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00023",
+                        "Miles": "0.00038"
+                    }
+                },
+                "Battery Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": " ",
+                        "Miles": " "
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": " ",
+                        "Miles": " "
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": " ",
+                        "Miles": " "
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": " ",
+                        "Miles": " "
+                    }
+                }
+            },
+            "Executive": {
+                "Diesel": {
+                    "Kg CO2e": {
+                        "Km": "0.174684",
+                        "Miles": "0.28114"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.1728",
+                        "Miles": "0.2781"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.000004",
+                        "Miles": "0.00001"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00188",
+                        "Miles": "0.00303"
+                    }
+                },
+                "Petrol": {
+                    "Kg CO2e": {
+                        "Km": "0.21999",
+                        "Miles": "0.35404"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00032",
+                        "Miles": "0.00051"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.21931",
+                        "Miles": "0.35295"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00036",
+                        "Miles": "0.00058"
+                    }
+                },
+                "Unknown": {
+                    "Kg CO2e": {
+                        "Km": "0.18547",
+                        "Miles": "0.29849"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.18387",
+                        "Miles": "0.29591"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00008",
+                        "Miles": "0.00013"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00152",
+                        "Miles": "0.00245"
+                    }
+                },
+                "Plug-in Hybrid Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.06897",
+                        "Miles": "0.111"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.06848",
+                        "Miles": "0.11021"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00022",
+                        "Miles": "0.00036"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00027",
+                        "Miles": "0.00043"
+                    }
+                },
+                "Battery Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.0",
+                        "Miles": "0.0"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.0",
+                        "Miles": "0.0"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.0",
+                        "Miles": "0.0"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.0",
+                        "Miles": "0.0"
+                    }
+                }
+            },
+            "Luxury": {
+                "Diesel": {
+                    "Kg CO2e": {
+                        "Km": "0.212434",
+                        "Miles": "0.34189"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.21055",
+                        "Miles": "0.33885"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.000004",
+                        "Miles": "0.00001"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00188",
+                        "Miles": "0.00303"
+                    }
+                },
+                "Petrol": {
+                    "Kg CO2e": {
+                        "Km": "0.32708",
+                        "Miles": "0.52638"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.3264",
+                        "Miles": "0.52529"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00032",
+                        "Miles": "0.00051"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00036",
+                        "Miles": "0.00058"
+                    }
+                },
+                "Unknown": {
+                    "Kg CO2e": {
+                        "Km": "0.26458",
+                        "Miles": "0.42581"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.26327",
+                        "Miles": "0.42369"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00015",
+                        "Miles": "0.00025"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00116",
+                        "Miles": "0.00187"
+                    }
+                },
+                "Plug-in Hybrid Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.092",
+                        "Miles": "0.14806"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.09141",
+                        "Miles": "0.14712"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00031",
+                        "Miles": "0.00049"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00028",
+                        "Miles": "0.00045"
+                    }
+                },
+                "Battery Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.0",
+                        "Miles": "0.0"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.0",
+                        "Miles": "0.0"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.0",
+                        "Miles": "0.0"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.0",
+                        "Miles": "0.0"
+                    }
+                }
+            },
+            "Sports": {
+                "Diesel": {
+                    "Kg CO2e": {
+                        "Km": "0.170414",
+                        "Miles": "0.27426"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.16853",
+                        "Miles": "0.27122"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.000004",
+                        "Miles": "0.00001"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00188",
+                        "Miles": "0.00303"
+                    }
+                },
+                "Petrol": {
+                    "Kg CO2e": {
+                        "Km": "0.24145",
+                        "Miles": "0.38857"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.24077",
+                        "Miles": "0.38748"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00032",
+                        "Miles": "0.00051"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00036",
+                        "Miles": "0.00058"
+                    },
+                    "Unknown": {
+                        "Kg CO2e": {
+                            "Km": "0.23006",
+                            "Miles": "0.37025"
+                        },
+                        "Kg CO2e of CO2 per unit": {
+                            "Km": "0.22919",
+                            "Miles": "0.36885"
+                        },
+                        "Kg CO2e of CH4 per unit": {
+                            "Km": "0.00027",
+                            "Miles": "0.00043"
+                        },
+                        "Kg CO2e of N2O per unit": {
+                            "Km": "0.0006",
+                            "Miles": "0.00097"
+                        }
+                    },
+                    "Plug-in Hybrid Electric Vehicle": {
+                        "Kg CO2e": {
+                            "Km": "0.07674",
+                            "Miles": "0.1235"
+                        },
+                        "Kg CO2e of CO2 per unit": {
+                            "Km": "0.07626",
+                            "Miles": "0.12273"
+                        },
+                        "Kg CO2e of CH4 per unit": {
+                            "Km": "0.00025",
+                            "Miles": "0.0004"
+                        },
+                        "Kg CO2e of N2O per unit": {
+                            "Km": "0.00023",
+                            "Miles": "0.00037"
+                        },
+                        "Battery Electric Vehicle": {
+                            "Kg CO2e": {
+                                "Km": "0.0",
+                                "Miles": "0.0"
+                            },
+                            "Kg CO2e of CO2 per unit": {
+                                "Km": "0.0",
+                                "Miles": "0.0"
+                            },
+                            "Kg CO2e of CH4 per unit": {
+                                "Km": "0.0",
+                                "Miles": "0.0"
+                            },
+                            "Kg CO2e of N2O per unit": {
+                                "Km": "0.0",
+                                "Miles": "0.0"
+                            }
+                        }
+                    }
+                }
+            },
+            "Dual Purpose4*4": {
+                "Diesel": {
+                    "Kg CO2e": {
+                        "Km": "0.202964",
+                        "Miles": "0.32665"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.20108",
+                        "Miles": "0.32361"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.000004",
+                        "Miles": "0.00001"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00188",
+                        "Miles": "0.00303"
+                    }
+                },
+                "Petrol": {
+                    "Kg CO2e": {
+                        "Km": "0.2106",
+                        "Miles": "0.33892"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.20992",
+                        "Miles": "0.33783"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00032",
+                        "Miles": "0.00051"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00036",
+                        "Miles": "0.00058"
+                    }
+                },
+                "Unknown": {
+                    "Kg CO2e": {
+                        "Km": "0.20518",
+                        "Miles": "0.3302"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.20361",
+                        "Miles": "0.32768"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00009",
+                        "Miles": "0.00014"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00148",
+                        "Miles": "0.00238"
+                    }
+                },
+                "Plug-in Hybrid Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.07471",
+                        "Miles": "0.12023"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.07422",
+                        "Miles": "0.11945"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00025",
+                        "Miles": "0.0004"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00024",
+                        "Miles": "0.00038"
+                    }
+                },
+                "Battery Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.0",
+                        "Miles": "0.0"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.0",
+                        "Miles": "0.0"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.0",
+                        "Miles": "0.00000"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00000",
+                        "Miles": "0.00000"
+                    }
+                }
+            },
+            "MPV": {
+                "Diesel": {
+                    "Kg CO2e": {
+                        "Km": "0.177844",
+                        "Miles": "0.28621"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.17596",
+                        "Miles": "0.28317"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.000004",
+                        "Miles": "0.00001"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00188",
+                        "Miles": "0.00303"
+                    }
+                },
+                "Petrol": {
+                    "Kg CO2e": {
+                        "Km": "0.19118",
+                        "Miles": "0.30767"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.1905",
+                        "Miles": "0.30658"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00032",
+                        "Miles": "0.00051"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00036",
+                        "Miles": "0.00058"
+                    }
+                },
+                "Unknown": {
+                    "Kg CO2e": {
+                        "Km": "0.18146",
+                        "Miles": "0.29203"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.17989",
+                        "Miles": "0.28951"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00009",
+                        "Miles": "0.00014"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00148",
+                        "Miles": "0.00238",
+                        "Plug-in Hybrid Electric Vehicle": {
+                            "Kg CO2e": {
+                                "Km": "0.0518",
+                                "Miles": "0.08337"
+                            },
+                            "Kg CO2e of CO2 per unit": {
+                                "Km": "0.05147",
+                                "Miles": "0.08284"
+                            },
+                            "Kg CO2e of CH4 per unit": {
+                                "Km": "0.00017",
+                                "Miles": "0.00028"
+                            },
+                            "Kg CO2e of N2O per unit": {
+                                "Km": "0.00016",
+                                "Miles": "0.00025"
+                            }
+                        }
+                    }
+                },
+                "Battery Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.00000",
+                        "Miles": "0.00000"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.00000",
+                        "Miles": "0.00000"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00000",
+                        "Miles": "0.00000"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00000",
+                        "Miles": "0.00000"
+                    }
+                }
+            }
+        },
+
+        "Car (Size)": {
+            "Small Car": {
+                "Diesel": {
+                    "Kg CO2e": {
+                        "Km": "0.13989",
+                        "Miles": "0.22514"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.13801",
+                        "Miles": "0.2221"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.000004",
+                        "Miles": "0.00001"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00188",
+                        "Miles": "0.00303"
+                    }
+                },
+                "Petrol": {
+                    "Kg CO2e": {
+                        "Km": "0.14652",
+                        "Miles": "0.2358"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.14584",
+                        "Miles": "0.23471"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00032",
+                        "Miles": "0.00051"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00036",
+                        "Miles": "0.00058"
+                    }
+                },
+                "Hybrid": {
+                    "Kg CO2e": {
+                        "Km": "0.10332",
+                        "Miles": "0.16628"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.10224",
+                        "Miles": "0.16454"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00021",
+                        "Miles": "0.00034"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00087",
+                        "Miles": "0.0014"
+                    }
+                },
+                "CNG": {
+                    "Kg CO2e": {
+                        "Km": "0",
+                        "Miles": "0"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0",
+                        "Miles": "0"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0",
+                        "Miles": "0"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0",
+                        "Miles": "0"
+                    }
+                },
+                "Unknown": {
+                    "Kg CO2e": {
+                        "Km": "0.1444",
+                        "Miles": "0.23239"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.14332",
+                        "Miles": "0.23065"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00021",
+                        "Miles": "0.00034"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00087",
+                        "Miles": "0.00140"
+                    }
+                },
+                "LPG": {
+                    "Kg CO2e": {
+                        "Km": "0",
+                        "Miles": "0"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0",
+                        "Miles": "0"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0",
+                        "Miles": "0"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0",
+                        "Miles": "0"
+                    }
+                },
+                "Plug-in Hybrid Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.02216",
+                        "Miles": "0.03567"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.02202",
+                        "Miles": "0.03544"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00007",
+                        "Miles": "0.00012"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00007",
+                        "Miles": "0.00011"
+                    }
+                },
+                "Battery Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.0",
+                        "Miles": "0.0"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.0",
+                        "Miles": "0.0"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.0",
+                        "Miles": "0.0"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.0",
+                        "Miles": "0.0"
+                    }
+                }
+            },
+            "Medium Car": {
+                "Diesel": {
+                    "Kg CO2e": {
+                        "Km": "0.168",
+                        "Miles": "0.27039"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.16612",
+                        "Miles": "0.26735"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.000004",
+                        "Miles": "0.00001"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00188",
+                        "Miles": "0.00303"
+                    }
+                },
+                "Petrol": {
+                    "Kg CO2e": {
+                        "Km": "0.1847",
+                        "Miles": "0.29724"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.18402",
+                        "Miles": "0.29615"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00032",
+                        "Miles": "0.00051"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00036",
+                        "Miles": "0.00058"
+                    }
+                },
+                "Hybrid": {
+                    "Kg CO2e": {
+                        "Km": "0.10999",
+                        "Miles": "0.17702"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.10867",
+                        "Miles": "0.17489"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00015",
+                        "Miles": "0.00024"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00117",
+                        "Miles": "0.00189"
+                    }
+                },
+                "CNG": {
+                    "Kg CO2e": {
+                        "Km": "0.15803",
+                        "Miles": "0.25433"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.15604",
+                        "Miles": "0.25113"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00158",
+                        "Miles": "0.00255"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00041",
+                        "Miles": "0.00065"
+                    }
+                },
+                "LPG": {
+                    "Kg CO2e": {
+                        "Km": "0.17823",
+                        "Miles": "0.28682"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.17777",
+                        "Miles": "0.28609"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00005",
+                        "Miles": "0.00008"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00041",
+                        "Miles": "0.00065"
+                    }
+                },
+                "Plug-in Hybrid Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.06475",
+                        "Miles": "0.10421"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.06431",
+                        "Miles": "0.10350"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00022",
+                        "Miles": "0.00036"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00022",
+                        "Miles": "0.00035"
+                    }
+                },
+                "Battery Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.0",
+                        "Miles": "0.0"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.0",
+                        "Miles": "0.0"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.0",
+                        "Miles": "0.0"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.0",
+                        "Miles": "0.0"
+                    }
+                },
+                "Unknown": {
+                    "Kg CO2e": {
+                        "Km": "0.17588",
+                        "Miles": "0.28306"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.17456",
+                        "Miles": "0.28093"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00015",
+                        "Miles": "0.00024"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00117",
+                        "Miles": "0.00189"
+                    }
+                }
+            },
+            "Large Car": {
+                "Diesel": {
+                    "Kg CO2e": {
+                        "Km": "0.20953",
+                        "Miles": "0.33722"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.20765",
+                        "Miles": "0.33418"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.000004",
+                        "Miles": "0.00001"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00188",
+                        "Miles": "0.00303"
+                    }
+                },
+                "Petrol": {
+                    "Kg CO2e": {
+                        "Km": "0.27639",
+                        "Miles": "0.4448"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.27571",
+                        "Miles": "0.44371"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00032",
+                        "Miles": "0.00051"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00036",
+                        "Miles": "0.00058"
+                    }
+                },
+                "Hybrid": {
+                    "Kg CO2e": {
+                        "Km": "0.15491",
+                        "Miles": "0.24929"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.15333",
+                        "Miles": "0.24676"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00009",
+                        "Miles": "0.00014"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00149",
+                        "Miles": "0.00239"
+                    }
+                },
+                "CNG": {
+                    "Kg CO2e": {
+                        "Km": "0.23578",
+                        "Miles": "0.37944"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.23379",
+                        "Miles": "0.37624"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00158",
+                        "Miles": "0.00255"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00041",
+                        "Miles": "0.00065"
+                    }
+                },
+                "LPG": {
+                    "Kg CO2e": {
+                        "Km": "0.2668",
+                        "Miles": "0.42936"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.26634",
+                        "Miles": "0.42863"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00005",
+                        "Miles": "0.00008"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00041",
+                        "Miles": "0.00065"
+                    }
+                },
+                "Unknown": {
+                    "Kg CO2e": {
+                        "Km": "0.22733",
+                        "Miles": "0.36584"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.22575",
+                        "Miles": "0.36331"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00009",
+                        "Miles": "0.00014"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00149",
+                        "Miles": "0.00239"
+                    }
+                },
+                "Plug-in Hybrid Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.0741 ",
+                        "Miles": "0.11924"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.07360",
+                        "Miles": "0.11844"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00025",
+                        "Miles": "0.00040"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00025",
+                        "Miles": "0.00040"
+                    }
+                },
+                "Battery Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.0",
+                        "Miles": "0.0"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.0",
+                        "Miles": "0.0"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.0",
+                        "Miles": "0.0"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.0",
+                        "Miles": "0.0"
+                    }
+                }
+            },
+            "Average Car": {
+                "Diesel": {
+                    "Kg CO2e": {
+                        "Km": "0.17082",
+                        "Miles": "0.27492"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.16894",
+                        "Miles": "0.27188"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.000004",
+                        "Miles": "0.00001"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00188",
+                        "Miles": "0.00303"
+                    }
+                },
+                "Petrol": {
+                    "Kg CO2e": {
+                        "Km": "0.17048",
+                        "Miles": "0.27436"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.1698",
+                        "Miles": "0.27327"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00032",
+                        "Miles": "0.00051"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00036",
+                        "Miles": "0.00058"
+                    }
+                },
+                "Hybrid": {
+                    "Kg CO2e": {
+                        "Km": "0.12004",
+                        "Miles": "0.19318"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.11877",
+                        "Miles": "0.19115"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00017",
+                        "Miles": "0.00027"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.0011",
+                        "Miles": "0.00176"
+                    }
+                },
+                "CNG": {
+                    "Kg CO2e": {
+                        "Km": "0.17517",
+                        "Miles": "0.2819"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.17318",
+                        "Miles": "0.2787"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00158",
+                        "Miles": "0.00255"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00041",
+                        "Miles": "0.00065"
+                    }
+                },
+                "LPG": {
+                    "Kg CO2e": {
+                        "Km": "0.19775",
+                        "Miles": "0.31823"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.19729",
+                        "Miles": "0.31750"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00005",
+                        "Miles": "0.00008"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00041",
+                        "Miles": "0.00065"
+                    }
+                },
+                "Unknown": {
+                    "Kg CO2e": {
+                        "Km": "0.17067",
+                        "Miles": "0.27465"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.16940",
+                        "Miles": "0.27262"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00017",
+                        "Miles": "0.00027"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00110",
+                        "Miles": "0.00176"
+                    }
+                },
+                "Plug-in Hybrid Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.0684 ",
+                        "Miles": "  0.11007"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.06794",
+                        "Miles": "0.10934"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00023",
+                        "Miles": "0.00037"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00023",
+                        "Miles": "0.00036"
+                    }
+                },
+                "Battery Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.0",
+                        "Miles": "0.0"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.0",
+                        "Miles": "0.0"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.0",
+                        "Miles": "0.0"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.0",
+                        "Miles": "0.0"
+                    }
+                }
+            }
+        },
+        "Motorbike": {
+            "Small": {
+                "Petrol": {
+                    "Kg CO2e": {
+                        "Km": "0.08306",
+                        "Miles": "0.13369"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.08094",
+                        "Miles": "0.13027"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00156",
+                        "Miles": "0.00252"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00056",
+                        "Miles": "0.00090"
+                    }
+                }
+            },
+            "Medium": {
+                "petrol": {
+                    "Kg CO2e": {
+                        "Km": "0.1009",
+                        "Miles": "0.16237"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.09826",
+                        "Miles": "0.15813"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00204",
+                        "Miles": "0.00328"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00060",
+                        "Miles": "0.00096"
+                    }
+                }
+            },
+            "Large": {
+                "petrol": {
+                    "Kg CO2e": {
+                        "Km": "0.13245",
+                        "Miles": "0.21315"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.13072",
+                        "Miles": "0.21037"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00113",
+                        "Miles": "0.00182"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00060",
+                        "Miles": "0.00096"
+                    }
+                }
+            },
+            "Average": {
+                "petrol": {
+                    "Kg CO2e": {
+                        "Km": "0.11355",
+                        "Miles": "0.18274"
+                    },
+                    "Kg CO2e of CO2 per unit": {
+                        "Km": "0.11138",
+                        "Miles": "0.17925"
+                    },
+                    "Kg CO2e of CH4 per unit": {
+                        "Km": "0.00158",
+                        "Miles": "0.00254"
+                    },
+                    "Kg CO2e of N2O per unit": {
+                        "Km": "0.00059",
+                        "Miles": "0.00095"
+                    }
+                }
+            }
+        }
+    }
+}

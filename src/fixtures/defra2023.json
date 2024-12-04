@@ -1,0 +1,998 @@
+[
+    {
+        "Activity": "Kyoto protocol products",
+        "name": "Carbon dioxide",
+        "kyoto_value": 1,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Kyoto protocol products",
+        "name": "Methane",
+        "kyoto_value": 28,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Kyoto protocol products",
+        "name": "Nitrous oxide",
+        "kyoto_value": 265,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Kyoto protocol products",
+        "name": "HFC-23",
+        "kyoto_value": 12400,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Kyoto protocol products",
+        "name": "HFC-32",
+        "kyoto_value": 677,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Kyoto protocol products",
+        "name": "HFC-41",
+        "kyoto_value": 116,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Kyoto protocol products",
+        "name": "HFC-125",
+        "kyoto_value": 3170,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Kyoto protocol products",
+        "name": "HFC-134",
+        "kyoto_value": 1120,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Kyoto protocol products",
+        "name": "HFC-134a",
+        "kyoto_value": 1300,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Kyoto protocol products",
+        "name": "HFC-143",
+        "kyoto_value": 328,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Kyoto protocol products",
+        "name": "HFC-143a",
+        "kyoto_value": 4800,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Kyoto protocol products",
+        "name": "HFC-152a",
+        "kyoto_value": 138,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Kyoto protocol products",
+        "name": "HFC-227ea",
+        "kyoto_value": 3350,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Kyoto protocol products",
+        "name": "HFC-236fa",
+        "kyoto_value": 8060,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Kyoto protocol products",
+        "name": "HFC-245fa",
+        "kyoto_value": 858,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Kyoto protocol products",
+        "name": "HFC-43-I0mee",
+        "kyoto_value": 1650,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Kyoto protocol products",
+        "name": "Perfluoromethane (PFC-14)",
+        "kyoto_value": 6630,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Kyoto protocol products",
+        "name": "Perfluoroethane (PFC-116)",
+        "kyoto_value": 11100,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Kyoto protocol products",
+        "name": "Perfluoropropane (PFC-218)",
+        "kyoto_value": 8900,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Kyoto protocol products",
+        "name": "Perfluorocyclobutane (PFC-318)",
+        "kyoto_value": 9540,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Kyoto protocol products",
+        "name": "Perfluorobutane (PFC-3-1-10)",
+        "kyoto_value": 9200,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Kyoto protocol products",
+        "name": "Perfluoropentane (PFC-4-1-12)",
+        "kyoto_value": 8550,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Kyoto protocol products",
+        "name": "Perfluorohexane (PFC-5-1-14)",
+        "kyoto_value": 7910,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Kyoto protocol products",
+        "name": "PFC-9-1-18",
+        "kyoto_value": 7190,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Kyoto protocol products",
+        "name": "Perfluorocyclopropane",
+        "kyoto_value": 9200,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Kyoto protocol products",
+        "name": "Sulphur hexafluoride (SF6)",
+        "kyoto_value": 23500,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Kyoto protocol products",
+        "name": "HFC-152",
+        "kyoto_value": 16,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Kyoto protocol products",
+        "name": "HFC-161",
+        "kyoto_value": 4,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Kyoto protocol products",
+        "name": "HFC-236cb",
+        "kyoto_value": 1210,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Kyoto protocol products",
+        "name": "HFC-236ea",
+        "kyoto_value": 1330,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Kyoto protocol products",
+        "name": "HFC-245ca",
+        "kyoto_value": 716,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Kyoto protocol products",
+        "name": "HFC-365mfc",
+        "kyoto_value": 804,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Kyoto protocol products",
+        "name": "Nitrogen trifluoride",
+        "kyoto_value": 16100,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R401A",
+        "kyoto_value": 18,
+        "non_kyoto_value": 1112
+    },
+    {
+        "Activity": "Blends",
+        "name": "R401B",
+        "kyoto_value": 15,
+        "non_kyoto_value": 1221
+    },
+    {
+        "Activity": "Blends",
+        "name": "R401C",
+        "kyoto_value": 21,
+        "non_kyoto_value": 855
+    },
+    {
+        "Activity": "Blends",
+        "name": "R402A",
+        "kyoto_value": 1902,
+        "non_kyoto_value": 669
+    },
+    {
+        "Activity": "Blends",
+        "name": "R402B",
+        "kyoto_value": 1205,
+        "non_kyoto_value": 1056
+    },
+    {
+        "Activity": "Blends",
+        "name": "R403A",
+        "kyoto_value": 1780,
+        "non_kyoto_value": 1320
+    },
+    {
+        "Activity": "Blends",
+        "name": "R403B",
+        "kyoto_value": 3471,
+        "non_kyoto_value": 986
+    },
+    {
+        "Activity": "Blends",
+        "name": "R404A",
+        "kyoto_value": 3943,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R405A",
+        "kyoto_value": 3920,
+        "non_kyoto_value": 901
+    },
+    {
+        "Activity": "Blends",
+        "name": "R406A",
+        "kyoto_value": 0,
+        "non_kyoto_value": 1780
+    },
+    {
+        "Activity": "Blends",
+        "name": "R407A",
+        "kyoto_value": 1923,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R407B",
+        "kyoto_value": 2547,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R407C",
+        "kyoto_value": 1624,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R407D",
+        "kyoto_value": 1487,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R407E",
+        "kyoto_value": 1425,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R407F",
+        "kyoto_value": 1674,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R408A",
+        "kyoto_value": 2430,
+        "non_kyoto_value": 827
+    },
+    {
+        "Activity": "Blends",
+        "name": "R409A",
+        "kyoto_value": 0,
+        "non_kyoto_value": 1485
+    },
+    {
+        "Activity": "Blends",
+        "name": "R409B",
+        "kyoto_value": 0,
+        "non_kyoto_value": 1474
+    },
+    {
+        "Activity": "Blends",
+        "name": "R410A",
+        "kyoto_value": 1924,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R410B",
+        "kyoto_value": 2048,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R411A",
+        "kyoto_value": 15,
+        "non_kyoto_value": 1540
+    },
+    {
+        "Activity": "Blends",
+        "name": "R411B",
+        "kyoto_value": 4,
+        "non_kyoto_value": 1654
+    },
+    {
+        "Activity": "Blends",
+        "name": "R412A",
+        "kyoto_value": 445,
+        "non_kyoto_value": 1727
+    },
+    {
+        "Activity": "Blends",
+        "name": "R413A",
+        "kyoto_value": 1945,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R414A",
+        "kyoto_value": 0,
+        "non_kyoto_value": 1375
+    },
+    {
+        "Activity": "Blends",
+        "name": "R414B",
+        "kyoto_value": 0,
+        "non_kyoto_value": 1274
+    },
+    {
+        "Activity": "Blends",
+        "name": "R415A",
+        "kyoto_value": 25,
+        "non_kyoto_value": 1443
+    },
+    {
+        "Activity": "Blends",
+        "name": "R415B",
+        "kyoto_value": 104,
+        "non_kyoto_value": 440
+    },
+    {
+        "Activity": "Blends",
+        "name": "R416A",
+        "kyoto_value": 767,
+        "non_kyoto_value": 208
+    },
+    {
+        "Activity": "Blends",
+        "name": "R417A",
+        "kyoto_value": 2127,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R417B",
+        "kyoto_value": 2742,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R417C",
+        "kyoto_value": 1643,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R418A",
+        "kyoto_value": 3,
+        "non_kyoto_value": 1690
+    },
+    {
+        "Activity": "Blends",
+        "name": "R419A",
+        "kyoto_value": 2688,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R419B",
+        "kyoto_value": 2161,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R420A",
+        "kyoto_value": 1144,
+        "non_kyoto_value": 238
+    },
+    {
+        "Activity": "Blends",
+        "name": "R421A",
+        "kyoto_value": 2385,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R421B",
+        "kyoto_value": 2890,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R422A",
+        "kyoto_value": 2847,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R422B",
+        "kyoto_value": 2290,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R422C",
+        "kyoto_value": 2794,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R422D",
+        "kyoto_value": 2473,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R422E",
+        "kyoto_value": 2350,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R423A",
+        "kyoto_value": 2274,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R424A",
+        "kyoto_value": 2212,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R425A",
+        "kyoto_value": 1431,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R426A",
+        "kyoto_value": 1371,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R427A",
+        "kyoto_value": 2024,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R428A",
+        "kyoto_value": 3417,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R429A",
+        "kyoto_value": 13.8,
+        "non_kyoto_value": 1.5
+    },
+    {
+        "Activity": "Blends",
+        "name": "R430A",
+        "kyoto_value": 105,
+        "non_kyoto_value": 1
+    },
+    {
+        "Activity": "Blends",
+        "name": "R431A",
+        "kyoto_value": 40,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R432A",
+        "kyoto_value": 0,
+        "non_kyoto_value": 1.8
+    },
+    {
+        "Activity": "Blends",
+        "name": "R433A",
+        "kyoto_value": 0,
+        "non_kyoto_value": 0.64
+    },
+    {
+        "Activity": "Blends",
+        "name": "R433B",
+        "kyoto_value": 0,
+        "non_kyoto_value": 0.16
+    },
+    {
+        "Activity": "Blends",
+        "name": "R433C",
+        "kyoto_value": 0,
+        "non_kyoto_value": 0.55
+    },
+    {
+        "Activity": "Blends",
+        "name": "R434A",
+        "kyoto_value": 3075,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R435A",
+        "kyoto_value": 27.6,
+        "non_kyoto_value": 0.8
+    },
+    {
+        "Activity": "Blends",
+        "name": "R436A",
+        "kyoto_value": 0,
+        "non_kyoto_value": 1.35
+    },
+    {
+        "Activity": "Blends",
+        "name": "R436B",
+        "kyoto_value": 0,
+        "non_kyoto_value": 1.47
+    },
+    {
+        "Activity": "Blends",
+        "name": "R437A",
+        "kyoto_value": 1639,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R438A",
+        "kyoto_value": 2059,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R439A",
+        "kyoto_value": 1828,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R440A",
+        "kyoto_value": 156,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R441A",
+        "kyoto_value": 0,
+        "non_kyoto_value": 0.23
+    },
+    {
+        "Activity": "Blends",
+        "name": "R442A",
+        "kyoto_value": 1754,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R443A",
+        "kyoto_value": 0,
+        "non_kyoto_value": 1
+    },
+    {
+        "Activity": "Blends",
+        "name": "R444A",
+        "kyoto_value": 88,
+        "non_kyoto_value": 1
+    },
+    {
+        "Activity": "Blends",
+        "name": "R445A",
+        "kyoto_value": 117,
+        "non_kyoto_value": 1
+    },
+    {
+        "Activity": "Blends",
+        "name": "R500",
+        "kyoto_value": 36,
+        "non_kyoto_value": 7528
+    },
+    {
+        "Activity": "Blends",
+        "name": "R501",
+        "kyoto_value": 0,
+        "non_kyoto_value": 3870
+    },
+    {
+        "Activity": "Blends",
+        "name": "R502",
+        "kyoto_value": 0,
+        "non_kyoto_value": 4786
+    },
+    {
+        "Activity": "Blends",
+        "name": "R503",
+        "kyoto_value": 4972,
+        "non_kyoto_value": 8326
+    },
+    {
+        "Activity": "Blends",
+        "name": "R504",
+        "kyoto_value": 326,
+        "non_kyoto_value": 3973
+    },
+    {
+        "Activity": "Blends",
+        "name": "R505",
+        "kyoto_value": 0,
+        "non_kyoto_value": 7956
+    },
+    {
+        "Activity": "Blends",
+        "name": "R506",
+        "kyoto_value": 0,
+        "non_kyoto_value": 3857
+    },
+    {
+        "Activity": "Blends",
+        "name": "R507A",
+        "kyoto_value": 3985,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R508A",
+        "kyoto_value": 11607,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R508B",
+        "kyoto_value": 11698,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Blends",
+        "name": "R509A",
+        "kyoto_value": 4984,
+        "non_kyoto_value": 774
+    },
+    {
+        "Activity": "Blends",
+        "name": "R510A",
+        "kyoto_value": 0,
+        "non_kyoto_value": 1.24
+    },
+    {
+        "Activity": "Blends",
+        "name": "R511A",
+        "kyoto_value": 6.9,
+        "non_kyoto_value": 0.1
+    },
+    {
+        "Activity": "Blends",
+        "name": "R512A",
+        "kyoto_value": 196,
+        "non_kyoto_value": 0
+    },
+    {
+        "Activity": "Montreal protocol products",
+        "name": "CFC-11/R11 = trichlorofluoromethane",
+        "kyoto_value": 0,
+        "non_kyoto_value": 4660
+    },
+    {
+        "Activity": "Montreal protocol products",
+        "name": "CFC-12/R12 = dichlorodifluoromethane",
+        "kyoto_value": 0,
+        "non_kyoto_value": 10200
+    },
+    {
+        "Activity": "Montreal protocol products",
+        "name": "CFC-13",
+        "kyoto_value": 0,
+        "non_kyoto_value": 13900
+    },
+    {
+        "Activity": "Montreal protocol products",
+        "name": "CFC-113",
+        "kyoto_value": 0,
+        "non_kyoto_value": 5820
+    },
+    {
+        "Activity": "Montreal protocol products",
+        "name": "CFC-114",
+        "kyoto_value": 0,
+        "non_kyoto_value": 8590
+    },
+    {
+        "Activity": "Montreal protocol products",
+        "name": "CFC-115",
+        "kyoto_value": 0,
+        "non_kyoto_value": 7670
+    },
+    {
+        "Activity": "Montreal protocol products",
+        "name": "Halon-1211",
+        "kyoto_value": 0,
+        "non_kyoto_value": 1750
+    },
+    {
+        "Activity": "Montreal protocol products",
+        "name": "Halon-1301",
+        "kyoto_value": 0,
+        "non_kyoto_value": 6290
+    },
+    {
+        "Activity": "Montreal protocol products",
+        "name": "Halon-2402",
+        "kyoto_value": 0,
+        "non_kyoto_value": 1470
+    },
+    {
+        "Activity": "Montreal protocol products",
+        "name": "Carbon tetrachloride",
+        "kyoto_value": 0,
+        "non_kyoto_value": 1730
+    },
+    {
+        "Activity": "Montreal protocol products",
+        "name": "Methyl bromide",
+        "kyoto_value": 0,
+        "non_kyoto_value": 2
+    },
+    {
+        "Activity": "Montreal protocol products",
+        "name": "Methyl chloroform",
+        "kyoto_value": 0,
+        "non_kyoto_value": 160
+    },
+    {
+        "Activity": "Montreal protocol products",
+        "name": "HCFC-22/R22 = chlorodifluoromethane",
+        "kyoto_value": 0,
+        "non_kyoto_value": 1760
+    },
+    {
+        "Activity": "Montreal protocol products",
+        "name": "HCFC-123",
+        "kyoto_value": 0,
+        "non_kyoto_value": 79
+    },
+    {
+        "Activity": "Montreal protocol products",
+        "name": "HCFC-124",
+        "kyoto_value": 0,
+        "non_kyoto_value": 527
+    },
+    {
+        "Activity": "Montreal protocol products",
+        "name": "HCFC-141b",
+        "kyoto_value": 0,
+        "non_kyoto_value": 782
+    },
+    {
+        "Activity": "Montreal protocol products",
+        "name": "HCFC-142b",
+        "kyoto_value": 0,
+        "non_kyoto_value": 1980
+    },
+    {
+        "Activity": "Montreal protocol products",
+        "name": "HCFC-225ca",
+        "kyoto_value": 0,
+        "non_kyoto_value": 127
+    },
+    {
+        "Activity": "Montreal protocol products",
+        "name": "HCFC-225cb",
+        "kyoto_value": 0,
+        "non_kyoto_value": 525
+    },
+    {
+        "Activity": "Montreal protocol products",
+        "name": "HCFC-21",
+        "kyoto_value": 0,
+        "non_kyoto_value": 148
+    },
+    {
+        "Activity": "Fluorinated ethers",
+        "name": "HFE-125",
+        "kyoto_value": 0,
+        "non_kyoto_value": 12400
+    },
+    {
+        "Activity": "Fluorinated ethers",
+        "name": "HFE-134",
+        "kyoto_value": 0,
+        "non_kyoto_value": 5560
+    },
+    {
+        "Activity": "Fluorinated ethers",
+        "name": "HFE-143a",
+        "kyoto_value": 0,
+        "non_kyoto_value": 523
+    },
+    {
+        "Activity": "Fluorinated ethers",
+        "name": "HCFE-235da2",
+        "kyoto_value": 0,
+        "non_kyoto_value": 491
+    },
+    {
+        "Activity": "Fluorinated ethers",
+        "name": "HFE-245cb2",
+        "kyoto_value": 0,
+        "non_kyoto_value": 654
+    },
+    {
+        "Activity": "Fluorinated ethers",
+        "name": "HFE-245fa2",
+        "kyoto_value": 0,
+        "non_kyoto_value": 812
+    },
+    {
+        "Activity": "Fluorinated ethers",
+        "name": "HFE-254cb2",
+        "kyoto_value": 0,
+        "non_kyoto_value": 301
+    },
+    {
+        "Activity": "Fluorinated ethers",
+        "name": "HFE-347mcc3",
+        "kyoto_value": 0,
+        "non_kyoto_value": 530
+    },
+    {
+        "Activity": "Fluorinated ethers",
+        "name": "HFE-347pcf2",
+        "kyoto_value": 0,
+        "non_kyoto_value": 889
+    },
+    {
+        "Activity": "Fluorinated ethers",
+        "name": "HFE-356pcc3",
+        "kyoto_value": 0,
+        "non_kyoto_value": 413
+    },
+    {
+        "Activity": "Fluorinated ethers",
+        "name": "HFE-449sl (HFE-7100)",
+        "kyoto_value": 0,
+        "non_kyoto_value": 421
+    },
+    {
+        "Activity": "Fluorinated ethers",
+        "name": "HFE-569sf2 (HFE-7200)",
+        "kyoto_value": 0,
+        "non_kyoto_value": 57
+    },
+    {
+        "Activity": "Fluorinated ethers",
+        "name": "HFE-43-10pccc124 (H-Galden1040x)",
+        "kyoto_value": 0,
+        "non_kyoto_value": 2820
+    },
+    {
+        "Activity": "Fluorinated ethers",
+        "name": "HFE-236ca12 (HG-10)",
+        "kyoto_value": 0,
+        "non_kyoto_value": 5350
+    },
+    {
+        "Activity": "Fluorinated ethers",
+        "name": "HFE-338pcc13 (HG-01)",
+        "kyoto_value": 0,
+        "non_kyoto_value": 2910
+    },
+    {
+        "Activity": "Other products",
+        "name": "Trifluoromethyl sulphur pentafluoride",
+        "kyoto_value": 0,
+        "non_kyoto_value": 17400
+    },
+    {
+        "Activity": "Other products",
+        "name": "PFPMIE",
+        "kyoto_value": 0,
+        "non_kyoto_value": 9710
+    },
+    {
+        "Activity": "Other products",
+        "name": "Dimethylether",
+        "kyoto_value": 0,
+        "non_kyoto_value": 1
+    },
+    {
+        "Activity": "Other products",
+        "name": "Methylene chloride",
+        "kyoto_value": 0,
+        "non_kyoto_value": 9
+    },
+    {
+        "Activity": "Other products",
+        "name": "Methyl chloride",
+        "kyoto_value": 0,
+        "non_kyoto_value": 12
+    },
+    {
+        "Activity": "Other products",
+        "name": "R290 = propane",
+        "kyoto_value": 0,
+        "non_kyoto_value": 0.06
+    },
+    {
+        "Activity": "Other products",
+        "name": "R600A = isobutane",
+        "kyoto_value": 0,
+        "non_kyoto_value": 3
+    },
+    {
+        "Activity": "Other products",
+        "name": "R600 = butane",
+        "kyoto_value": 0,
+        "non_kyoto_value": 0.006
+    },
+    {
+        "Activity": "Other products",
+        "name": "R601 = pentane",
+        "kyoto_value": 0,
+        "non_kyoto_value": 5
+    },
+    {
+        "Activity": "Other products",
+        "name": "R601A = isopentane",
+        "kyoto_value": 0,
+        "non_kyoto_value": 5
+    },
+    {
+        "Activity": "Other products",
+        "name": "R170 = ethane",
+        "kyoto_value": 0,
+        "non_kyoto_value": 0.437
+    },
+    {
+        "Activity": "Other products",
+        "name": "R1270 = propene",
+        "kyoto_value": 0,
+        "non_kyoto_value": 2
+    },
+    {
+        "Activity": "Other products",
+        "name": "R1234yf*",
+        "kyoto_value": 0,
+        "non_kyoto_value": 1
+    },
+    {
+        "Activity": "Other products",
+        "name": "R1234ze*",
+        "kyoto_value": 0,
+        "non_kyoto_value": 1
+    }
+]

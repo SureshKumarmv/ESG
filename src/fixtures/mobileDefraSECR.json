@@ -1,0 +1,238 @@
+{
+    "2024": {
+        "Cars (by market segment)": {
+            "Mini": {
+                "Diesel": {
+                    "Kg CO2e": {
+                        "Km": "0.423",
+                        "Miles": "0.68075"
+                    }
+                },
+                "Petrol": {
+                    "Kg CO2e": {
+                        "Km": "0.5577",
+                        "Miles": "0.89753"
+                    }
+                },
+                "Unknown": {
+                    "Kg CO2e": {
+                        "Km": "0.55645",
+                        "Miles": "0.89553"
+                    }
+                },
+                "Plug-in Hybrid Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0",
+                        "Miles": "0"
+                    }
+                },
+                "Battery Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0",
+                        "Miles": "0"
+                    }
+                }
+            },
+            "SuperMini": {
+                "Diesel": {
+                    "Kg CO2e": {
+                        "Km": "0.52029",
+                        "Miles": "0.83733"
+                    }
+                },
+                "Petrol": {
+                    "Kg CO2e": {
+                        "Km": "0.60672",
+                        "Miles": "0.97643"
+                    }
+                },
+                "Unknown": {
+                    "Kg CO2e": {
+                        "Km": "0.59492",
+                        "Miles": "0.95743"
+                    }
+                },
+                "Plug-in Hybrid Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.09245",
+                        "Miles": "0.14879"
+                    }
+                },
+                "Battery Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.0",
+                        "Miles": "0.0"
+                    }
+                }
+            },
+            "Lower Medium": {
+                "Diesel": {
+                    "Kg CO2e": {
+                        "Km": "0.144614",
+                        "Miles": "0.23274"
+                    }
+                },
+                "Petrol": {
+                    "Kg CO2e": {
+                        "Km": "0.70583",
+                        "Miles": "1.13593"
+                    }
+                },
+                "Unknown": {
+                    "Kg CO2e": {
+                        "Km": "0.63999",
+                        "Miles": "1.02996"
+                    }
+                },
+                "Plug-in Hybrid Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.25529",
+                        "Miles": "0.41085"
+                    }
+                },
+                "Battery Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0",
+                        "Miles": "0"
+                    }
+                }
+            }
+        },
+        "Car (Size)": {
+            "Small Car": {
+                "Diesel": {
+                    "Kg CO2e": {
+                        "Km": "0.54885",
+                        "Miles": "0.88329"
+                    }
+                },
+                "Petrol": {
+                    "Kg CO2e": {
+                        "Km": "0.6029",
+                        "Miles": "0.97028"
+                    }
+                },
+                "Hybrid": {
+                    "Kg CO2e": {
+                        "Km": "0.42215",
+                        "Miles": "0.67938"
+                    }
+                },
+                "CNG": {
+                    "Kg CO2e": {
+                        "Km": "0",
+                        "Miles": "0"
+                    }
+                },
+                "Unknown": {
+                    "Kg CO2e": {
+                        "Km": "0.58541",
+                        "Miles": "0.94213"
+                    }
+                },
+                "LPG": {
+                    "Kg CO2e": {
+                        "Km": "0",
+                        "Miles": "0"
+                    }
+                },
+                "Plug-in Hybrid Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.09245",
+                        "Miles": "0.14879"
+                    }
+                },
+                "Battery Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.0",
+                        "Miles": "0.0"
+                    }
+                }
+            },
+            "Medium Car": {
+                "Diesel": {
+                    "Kg CO2e": {
+                        "Km": "0.65989",
+                        "Miles": "1.062"
+                    }
+                },
+                "Petrol": {
+                    "Kg CO2e": {
+                        "Km": "0.76374",
+                        "Miles": "1.22913"
+                    }
+                },
+                "Hybrid": {
+                    "Kg CO2e": {
+                        "Km": "0.44566",
+                        "Miles": "0.71722"
+                    }
+                },
+                "CNG": {
+                    "Kg CO2e": {
+                        "Km": "0.76374",
+                        "Miles": "1.22913"
+                    }
+                },
+                "LPG": {
+                    "Kg CO2e": {
+                        "Km": "0.76374",
+                        "Miles": "1.22913"
+                    }
+                },
+                "Plug-in Hybrid Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.26212",
+                        "Miles": "0.42184"
+                    }
+                },
+                "Battery Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.0",
+                        "Miles": "0.0"
+                    }
+                },
+                "Unknown": {
+                    "Kg CO2e": {
+                        "Km": "0.70774",
+                        "Miles": "1.139"
+                    }
+                }
+            }
+        },
+        "Motorbike": {
+            "Small": {
+                "Petrol": {
+                    "Kg CO2e": {
+                        "Km": "0.33622",
+                        "Miles": "0.5411"
+                    }
+                }
+            },
+            "Medium": {
+                "petrol": {
+                    "Kg CO2e": {
+                        "Km": "0.40813",
+                        "Miles": "0.65682"
+                    }
+                }
+            },
+            "Large": {
+                "petrol": {
+                    "Kg CO2e": {
+                        "Km": "0.54296",
+                        "Miles": "0.8738"
+                    }
+                }
+            },
+            "Average": {
+                "petrol": {
+                    "Kg CO2e": {
+                        "Km": "0.46265",
+                        "Miles": "0.74456"
+                    }
+                }
+            }
+        }
+    }
+}

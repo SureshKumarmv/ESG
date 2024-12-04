@@ -1,0 +1,413 @@
+[
+    {
+        "name": "Carbon dioxide",
+        "chemicalFormula": "CO2",
+        "value": 1,
+        "year": 2023
+    },
+    {
+        "name": "Methane",
+        "chemicalFormula": "CH4",
+        "value": 25,
+        "year": 2023
+    },
+    {
+        "name": "Nitrous oxide",
+        "chemicalFormula": "N2O",
+        "value": 298,
+        "year": 2023
+    },
+    {
+        "name": "HFC-23",
+        "chemicalFormula": "CHF3",
+        "value": 14800,
+        "year": 2023
+    },
+    {
+        "name": "HFC-32",
+        "chemicalFormula": "CH2F2",
+        "value": 675,
+        "year": 2023
+    },
+    {
+        "name": "HFC-41",
+        "chemicalFormula": "CH3F",
+        "value": 92,
+        "year": 2023
+    },
+    {
+        "name": "HFC-125",
+        "chemicalFormula": "CHF2CF3",
+        "value": 3500,
+        "year": 2023
+    },
+    {
+        "name": "HFC-134",
+        "chemicalFormula": "CHF2CHF2",
+        "value": 1100,
+        "year": 2023
+    },
+    {
+        "name": "HFC-134a",
+        "chemicalFormula": "CH2FCF3",
+        "value": 1430,
+        "year": 2023
+    },
+    {
+        "name": "HFC-143",
+        "chemicalFormula": "CH2FCHF2",
+        "value": 353,
+        "year": 2023
+    },
+    {
+        "name": "HFC-143a",
+        "chemicalFormula": "CH3CF3",
+        "value": 4470,
+        "year": 2023
+    },
+    {
+        "name": "HFC-152",
+        "chemicalFormula": "CH2FCH2F",
+        "value": 53,
+        "year": 2023
+    },
+    {
+        "name": "HFC-152a",
+        "chemicalFormula": "CH3CHF2",
+        "value": 124,
+        "year": 2023
+    },
+    {
+        "name": "HFC-161",
+        "chemicalFormula": "CH3CH2F",
+        "value": 12,
+        "year": 2023
+    },
+    {
+        "name": "HFC-227ea",
+        "chemicalFormula": "CF3CHFCF3",
+        "value": 3220,
+        "year": 2023
+    },
+    {
+        "name": "HFC-236cb",
+        "chemicalFormula": "CH2FCF2CF3",
+        "value": 1340,
+        "year": 2023
+    },
+    {
+        "name": "HFC-236ea",
+        "chemicalFormula": "CHF2CHFCF3",
+        "value": 1370,
+        "year": 2023
+    },
+    {
+        "name": "HFC-236fa",
+        "chemicalFormula": "CF3CH2CF3",
+        "value": 9810,
+        "year": 2023
+    },
+    {
+        "name": "HFC-245ca",
+        "chemicalFormula": "CH2FCF2CHF2",
+        "value": 693,
+        "year": 2023
+    },
+    {
+        "name": "HFC-245fa",
+        "chemicalFormula": "CHF2CH2CF3",
+        "value": 1030,
+        "year": 2023
+    },
+    {
+        "name": "HFC-365mfc",
+        "chemicalFormula": "CH3CF2CH2CF3",
+        "value": 794,
+        "year": 2023
+    },
+    {
+        "name": "HFC-43-10mee",
+        "chemicalFormula": "CF3CHFCHFCF2CF3",
+        "value": 1640,
+        "year": 2023
+    },
+    {
+        "name": "Sulfur hexafluoride",
+        "chemicalFormula": "SF6",
+        "value": 22800,
+        "year": 2023
+    },
+    {
+        "name": "Nitrogen trifluoride",
+        "chemicalFormula": "NF3",
+        "value": 17200,
+        "year": 2023
+    },
+    {
+        "name": "PFC-14",
+        "chemicalFormula": "CF4",
+        "value": 7390,
+        "year": 2023
+    },
+    {
+        "name": "PFC-116",
+        "chemicalFormula": "C2F6",
+        "value": 12200,
+        "year": 2023
+    },
+    {
+        "name": "PFC-218",
+        "chemicalFormula": "C3F8",
+        "value": 8830,
+        "year": 2023
+    },
+    {
+        "name": "PFC-318",
+        "chemicalFormula": "c-C4F8",
+        "value": 10300,
+        "year": 2023
+    },
+    {
+        "name": "PFC-31-10",
+        "chemicalFormula": "C4F10",
+        "value": 8860,
+        "year": 2023
+    },
+    {
+        "name": "PFC-41-12",
+        "chemicalFormula": "C5F12",
+        "value": 9160,
+        "year": 2023
+    },
+    {
+        "name": "PFC-51-14",
+        "chemicalFormula": "C6F14",
+        "value": 9300,
+        "year": 2023
+    },
+    {
+        "name": "PFC-91-18",
+        "chemicalFormula": "C10F18",
+        "value": 7500,
+        "year": 2023
+    },
+
+    {
+        "name": "R-401A",
+        "chemicalFormula": "R-401A",
+        "value": 16,
+        "year": 2023
+    },
+    {
+        "name": "R-401B",
+        "chemicalFormula": "R-401B",
+        "value": 14,
+        "year": 2023
+    },
+    {
+        "name": "R-401C",
+        "chemicalFormula": "R-401C",
+        "value": 19,
+        "year": 2023
+    },
+    {
+        "name": "R-402A",
+        "chemicalFormula": "R-402A",
+        "value": 2100,
+        "year": 2023
+    },
+    {
+        "name": "R-402B",
+        "chemicalFormula": "R-402B",
+        "value": 1330,
+        "year": 2023
+    },
+    {
+        "name": "R-403B",
+        "chemicalFormula": "R-403B",
+        "value": 3444,
+        "year": 2023
+    },
+    {
+        "name": "R-404A",
+        "chemicalFormula": "R-404A",
+        "value": 3922,
+        "year": 2023
+    },
+    {
+        "name": "R-406A",
+        "chemicalFormula": "R-406A",
+        "value": 0,
+        "year": 2023
+    },
+    {
+        "name": "R-407A",
+        "chemicalFormula": "R-407A",
+        "value": 2107,
+        "year": 2023
+    },
+    {
+        "name": "R-407B",
+        "chemicalFormula": "R-407B",
+        "value": 2804,
+        "year": 2023
+    },
+    {
+        "name": "R-407C",
+        "chemicalFormula": "R-407C",
+        "value": 1774,
+        "year": 2023
+    },
+    {
+        "name": "R-407D",
+        "chemicalFormula": "R-407D",
+        "value": 1627,
+        "year": 2023
+    },
+    {
+        "name": "R-407E",
+        "chemicalFormula": "R-407E",
+        "value": 1552,
+        "year": 2023
+    },
+
+    {
+        "name": "R-408A",
+        "chemicalFormula": "R-408A",
+        "value": 2301,
+        "year": 2023
+    },
+    {
+        "name": "R-409A",
+        "chemicalFormula": "R-409A",
+        "value": 0,
+        "year": 2023
+    },
+    {
+        "name": "R-410A",
+        "chemicalFormula": "R-410A",
+        "value": 2088,
+        "year": 2023
+    },
+    {
+        "name": "R-410B",
+        "chemicalFormula": "R-410B",
+        "value": 2229,
+        "year": 2023
+    },
+    {
+        "name": "R-411A",
+        "chemicalFormula": "R-411A",
+        "value": 14,
+        "year": 2023
+    },
+    {
+        "name": "R-411B",
+        "chemicalFormula": "R-411B",
+        "value": 4,
+        "year": 2023
+    },
+    {
+        "name": "R-413A",
+        "chemicalFormula": "R-413A",
+        "value": 2053,
+        "year": 2023
+    },
+    {
+        "name": "R-414A",
+        "chemicalFormula": "R-414A",
+        "value": 0,
+        "year": 2023
+    },
+    {
+        "name": "R-414B",
+        "chemicalFormula": "R-414B",
+        "value": 0,
+        "year": 2023
+    },
+    {
+        "name": "R-417A",
+        "chemicalFormula": "R-417A",
+        "value": 2346,
+        "year": 2023
+    },
+    {
+        "name": "R-422A",
+        "chemicalFormula": "R-422A",
+        "value": 3143,
+        "year": 2023
+    },
+    {
+        "name": "R-422D",
+        "chemicalFormula": "R-422D",
+        "value": 2729,
+        "year": 2023
+    },
+    {
+        "name": "R-423A",
+        "chemicalFormula": "R-423A",
+        "value": 2280,
+        "year": 2023
+    },
+
+    {
+        "name": "R-424A",
+        "chemicalFormula": "R-424A",
+        "value": 2440,
+        "year": 2023
+    },
+    {
+        "name": "R-426A",
+        "chemicalFormula": "R-426A",
+        "value": 1508,
+        "year": 2023
+    },
+    {
+        "name": "R-428A",
+        "chemicalFormula": "R-428A",
+        "value": 3607,
+        "year": 2023
+    },
+    {
+        "name": "R-434A",
+        "chemicalFormula": "R-434A",
+        "value": 3245,
+        "year": 2023
+    },
+    {
+        "name": "R-500",
+        "chemicalFormula": "R-500",
+        "value": 32,
+        "year": 2023
+    },
+    {
+        "name": "R-502",
+        "chemicalFormula": "R-502",
+        "value": 0,
+        "year": 2023
+    },
+    {
+        "name": "R-504",
+        "chemicalFormula": "R-504",
+        "value": 325,
+        "year": 2023
+    },
+    {
+        "name": "R-507",
+        "chemicalFormula": "R-507",
+        "value": 3985,
+        "year": 2023
+    },
+    {
+        "name": "R-508A",
+        "chemicalFormula": "R-508A",
+        "value": 13214,
+        "year": 2023
+    },
+    {
+        "name": "R-508B",
+        "chemicalFormula": "R-508B",
+        "value": 13396,
+        "year": 2023
+    }
+]

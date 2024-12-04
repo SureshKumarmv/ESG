@@ -1,0 +1,173 @@
+{
+    "2024": {
+        "Cars (by market segment)": {
+            "Mini": {
+                "Plug-in Hybrid Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "1",
+                        "Miles": "1"
+                    }
+                },
+                "Battery Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "2",
+                        "Miles": "2"
+                    }
+                }
+            },
+
+            "SuperMini": {
+                "Plug-in Hybrid Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.14398",
+                        "Miles": "0.23171"
+                    }
+                },
+                "Battery Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.21827",
+                        "Miles": "0.35127"
+                    }
+                }
+            },
+            "Lower Medium": {
+                "Plug-in Hybrid Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.06258",
+                        "Miles": "0.10072"
+                    }
+                },
+                "Battery Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.10393",
+                        "Miles": "0.16725"
+                    }
+                }
+            },
+            "Upper Medium": {
+                "Plug-in Hybrid Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.10575",
+                        "Miles": "0.17019"
+                    }
+                },
+                "Battery Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.24419",
+                        "Miles": "0.39298"
+                    }
+                }
+            },
+            "Executive": {
+                "Plug-in Hybrid Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.09942",
+                        "Miles": "0.16"
+                    }
+                },
+                "Battery Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.22256",
+                        "Miles": "0.35817"
+                    }
+                }
+            },
+            "Luxury": {
+                "Plug-in Hybrid Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.092",
+                        "Miles": "0.14806"
+                    }
+                },
+                "Battery Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.11084",
+                        "Miles": "0.17838"
+                    }
+                }
+            },
+
+            "Dual Purpose4*4": {
+                "Plug-in Hybrid Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.14377",
+                        "Miles": "0.23138"
+                    }
+                },
+                "Battery Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.27107",
+                        "Miles": "0.43625"
+                    }
+                }
+            },
+            "MPV": {
+                "Battery Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.18861",
+                        "Miles": "0.30353"
+                    }
+                }
+            }
+        },
+
+        "Car (Size)": {
+            "Small Car": {
+                "Plug-in Hybrid Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.14398",
+                        "Miles": "0.23171"
+                    }
+                },
+                "Battery Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.21456",
+                        "Miles": "0.34531"
+                    }
+                }
+            },
+            "Medium Car": {
+                "Plug-in Hybrid Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.10484",
+                        "Miles": "0.16873"
+                    }
+                },
+                "Battery Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.23412",
+                        "Miles": "0.37678"
+                    }
+                }
+            },
+            "Large Car": {
+                "Plug-in Hybrid Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.13694",
+                        "Miles": "0.22038"
+                    }
+                },
+                "Battery Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.25762",
+                        "Miles": "0.4146"
+                    }
+                }
+            },
+            "Average Car": {
+                "Plug-in Hybrid Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.12473",
+                        "Miles": "0.20073"
+                    }
+                },
+                "Battery Electric Vehicle": {
+                    "Kg CO2e": {
+                        "Km": "0.24363",
+                        "Miles": "0.39208"
+                    }
+                }
+            }
+        }
+    }
+}

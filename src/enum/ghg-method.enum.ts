@@ -1,0 +1,5 @@
+export enum GhgMethodEnum {
+    SALES_BASED_APPROACH = 1,
+    LIFECYCLE_STAGE_APPROACH = 2,
+    SCREENING_METHOD = 3,
+}
