@@ -183,10 +183,38 @@ export class MobileDefraController {
         }
     }
 
+    static async getMobileDefraVehicleByActivityId(req: Request, res: Response) {
+        try {
+            const { id } = req.params
+            const mobileyDefraVehicle = await MobileVehicleDefra.find({ where: { activityId: id } })
+            return res.status(200).json({ data: mobileyDefraVehicle })
+        } catch (error) {
+            return res
+                .status(400)
+                .json({ message: error.message ? error.message : "Something went wrong" })
+        }
+    }
+
     static async getMobileDefraVehicleVariant(req: Request, res: Response) {
         try {
             const mobileDefraVehicleVariant = await MobileVehicleVariantDefra.find({
                 where: { ...req.query },
+            })
+            return res.status(200).json({
+                data: mobileDefraVehicleVariant,
+            })
+        } catch (error) {
+            return res
+                .status(400)
+                .json({ message: error.message ? error.message : "Something went wrong" })
+        }
+    }
+
+    static async getMobileDefraVehicleVariantByVehicleId(req: Request, res: Response) {
+        try {
+            const { id } = req.params
+            const mobileDefraVehicleVariant = await MobileVehicleVariantDefra.find({
+                where: { vehicleId: id },
             })
             return res.status(200).json({
                 data: mobileDefraVehicleVariant,

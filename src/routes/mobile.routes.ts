@@ -17,12 +17,18 @@ Router.route("/defra/result")
 // Router.route("/defra/vehicle").get(isLoggedIn, MobileDefraController.getMobileDefraVehicle)
 Router.route("/defra/vehicle").get(MobileDefraController.getMobileDefraVehicle)
 
+Router.get("/defra/vehicle/:id", MobileDefraController.getMobileDefraVehicleByActivityId)
+
 // Router.route("/defra/vehicleVariant").get(
 //     isLoggedIn,
 //     MobileDefraController.getMobileDefraVehicleVariant,
 // )
 Router.route("/defra/vehicleVariant").get(MobileDefraController.getMobileDefraVehicleVariant)
 
+Router.get(
+    "/defra/vehicleVariant/:id",
+    MobileDefraController.getMobileDefraVehicleVariantByVehicleId,
+)
 //------------------Delivery start---------------------
 
 // Router.route("/defra/deliveryActivity").get(
