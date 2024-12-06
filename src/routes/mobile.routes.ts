@@ -4,36 +4,48 @@ import { MobileDefraController } from "../controllers/mobileDefra/mobileEmission
 
 const Router = express.Router()
 
-Router.route("/defra/activity").get(isLoggedIn, MobileDefraController.getMobileDefraActivites)
+// Router.route("/defra/activity").get(isLoggedIn, MobileDefraController.getMobileDefraActivites)
+Router.route("/defra/activity").get(MobileDefraController.getMobileDefraActivites)
 
+// Router.route("/defra/result")
+//     .get(isLoggedIn, MobileDefraController.getMobileDefraResult)
+//     .post(isLoggedIn, MobileDefraController.postMobileDefraResult)
 Router.route("/defra/result")
-    .get(isLoggedIn, MobileDefraController.getMobileDefraResult)
-    .post(isLoggedIn, MobileDefraController.postMobileDefraResult)
+    .get(MobileDefraController.getMobileDefraResult)
+    .post(MobileDefraController.postMobileDefraResult)
 
-Router.route("/defra/vehicle").get(isLoggedIn, MobileDefraController.getMobileDefraVehicle)
+// Router.route("/defra/vehicle").get(isLoggedIn, MobileDefraController.getMobileDefraVehicle)
+Router.route("/defra/vehicle").get(MobileDefraController.getMobileDefraVehicle)
 
-Router.route("/defra/vehicleVariant").get(
-    isLoggedIn,
-    MobileDefraController.getMobileDefraVehicleVariant,
-)
+// Router.route("/defra/vehicleVariant").get(
+//     isLoggedIn,
+//     MobileDefraController.getMobileDefraVehicleVariant,
+// )
+Router.route("/defra/vehicleVariant").get(MobileDefraController.getMobileDefraVehicleVariant)
 
 //------------------Delivery start---------------------
 
-Router.route("/defra/deliveryActivity").get(
-    isLoggedIn,
-    MobileDefraController.getMobileDeliveryActivity,
-)
+// Router.route("/defra/deliveryActivity").get(
+//     isLoggedIn,
+//     MobileDefraController.getMobileDeliveryActivity,
+// )
+Router.route("/defra/deliveryActivity").get(MobileDefraController.getMobileDeliveryActivity)
 
+// Router.route("/defra/deliveryResult")
+//     .get(isLoggedIn, MobileDefraController.getMobileDeliveryResult)
+//     .post(isLoggedIn, MobileDefraController.postMobileDeliveryResult)
 Router.route("/defra/deliveryResult")
-    .get(isLoggedIn, MobileDefraController.getMobileDeliveryResult)
-    .post(isLoggedIn, MobileDefraController.postMobileDeliveryResult)
+    .get(MobileDefraController.getMobileDeliveryResult)
+    .post(MobileDefraController.postMobileDeliveryResult)
 
-Router.route("/defra/deliveryTypes").get(isLoggedIn, MobileDefraController.getMobileDeliveryTypes)
+// Router.route("/defra/deliveryTypes").get(isLoggedIn, MobileDefraController.getMobileDeliveryTypes)
+Router.route("/defra/deliveryTypes").get(MobileDefraController.getMobileDeliveryTypes)
 
-Router.route("/defra/deliveryVariant").get(
-    isLoggedIn,
-    MobileDefraController.getMobileDeliveryVariant,
-)
+// Router.route("/defra/deliveryVariant").get(
+//     isLoggedIn,
+//     MobileDefraController.getMobileDeliveryVariant,
+// )
+Router.route("/defra/deliveryVariant").get(MobileDefraController.getMobileDeliveryVariant)
 
 //--------------------Delivery end---------------------
 

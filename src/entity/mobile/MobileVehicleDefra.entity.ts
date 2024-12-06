@@ -10,9 +10,9 @@ import {
     CreateDateColumn,
     UpdateDateColumn,
 } from "typeorm"
-// import { DefraEmission } from "./DefraEmission.entity"
-// import { Activity } from "./Activity.entity"
+
 import { MobileActivityDefra } from "./MobileActivityDefra.entity"
+// import { MobileVehicleVariantDefra } from "./MobileVehicleVariantDefra.entity";
 
 @Entity({ name: "Mobile_Vehicle_Defra" })
 export class MobileVehicleDefra extends BaseEntity {
@@ -31,6 +31,13 @@ export class MobileVehicleDefra extends BaseEntity {
     })
     @JoinColumn({ name: "activityId" })
     activity: MobileActivityDefra
+
+    // @ManyToOne(() => MobileVehicleVariantDefra, (variant) => variant.id, {
+    //     cascade: true,
+    //     onDelete: "CASCADE",
+    // })
+    // @JoinColumn({ name: "variantId" })
+    // variant: MobileVehicleVariantDefra
 
     @CreateDateColumn()
     createdAt: Date

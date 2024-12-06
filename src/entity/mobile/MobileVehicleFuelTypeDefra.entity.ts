@@ -13,8 +13,8 @@ import {
 import { MobileActivityDefra } from "./MobileActivityDefra.entity"
 import { MobileVehicleDefra } from "./MobileVehicleDefra.entity"
 
-@Entity({ name: "Mobile_Vehicle_Variant_Defra" })
-export class MobileVehicleVariantDefra extends BaseEntity {
+@Entity({ name: "Mobile_Vehicle_Fuel_Defra" })
+export class MobileVehicleFuelTypeDefra extends BaseEntity {
     @PrimaryGeneratedColumn("uuid")
     id: string
 
@@ -34,12 +34,12 @@ export class MobileVehicleVariantDefra extends BaseEntity {
     @Column({ name: "vehicleId" })
     vehicleId: string
 
-    @ManyToOne(() => MobileVehicleDefra, (vehicle) => vehicle.id, {
+    @ManyToOne(() => MobileVehicleDefra, (vehicleType) => vehicleType.id, {
         cascade: true,
         onDelete: "CASCADE",
     })
     @JoinColumn({ name: "vehicleId" })
-    vehicle: MobileVehicleDefra
+    vehicleType: MobileVehicleDefra
 
     @CreateDateColumn()
     createdAt: Date

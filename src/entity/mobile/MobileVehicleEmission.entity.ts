@@ -1,6 +1,5 @@
 import {
     Entity,
-    // OneToMany,
     DeleteDateColumn,
     ManyToOne,
     Column,
@@ -10,10 +9,7 @@ import {
     CreateDateColumn,
     UpdateDateColumn,
 } from "typeorm"
-// import { DefraEmission } from "./DefraEmission.entity"
-// import { Activity } from "./Activity.entity"
-// import { MobileActivityDefra } from "./MobileActivityDefra.entity"
-// import { UUID } from "crypto"
+
 import { MobileVehicleDefra } from "./MobileVehicleDefra.entity"
 import { MobileVehicleVariantDefra } from "./MobileVehicleVariantDefra.entity"
 
@@ -22,29 +18,37 @@ export class MobileVehicleEmissionDefra extends BaseEntity {
     @PrimaryGeneratedColumn("uuid")
     id: string
 
-    @Column({ type: "decimal", precision: 50, scale: 10 })
-    kgco2e: number
+    // @Column({ type: "simple-json", nullable: true })
+    // config: Record<string, any>; // Or define a specific object type
 
-    @Column({ type: "decimal", precision: 50, scale: 10 })
-    kgco2eCO2: number
+    @Column({ type: "simple-json", nullable: true })
+    kgco2e: unknown
+    // @Column({ type: "decimal", precision: 50, scale: 10 })
+    // kgco2e: number
 
-    @Column({ type: "decimal", precision: 50, scale: 10 })
-    kgco2eCH4: number
+    @Column({ type: "json", nullable: true })
+    kgco2eCO2: unknown
+    // @Column({ type: "decimal", precision: 50, scale: 10 })
+    // kgco2eCO2: number
 
-    @Column({ type: "decimal", precision: 50, scale: 10 })
-    kgco2eN2O: number
+    @Column({ type: "json", nullable: true })
+    kgco2eCH4: unknown
+    // @Column({ type: "decimal", precision: 50, scale: 10 })
+    // kgco2eCH4: number
 
-    @Column({ type: "uuid", name: "vehicleId" })
-    vehicleId: string
+    @Column({ type: "json", nullable: true })
+    kgco2eN2O: unknown
+    // @Column({ type: "decimal", precision: 50, scale: 10 })
+    // kgco2eN2O: number
 
     @Column({ type: "int" })
     year: number
 
-    @Column({ type: "uuid", name: "variantId" })
-    variantId: string
+    // @Column({ type: "varchar", length: 50 })
+    // unit: string
 
-    @Column({ type: "varchar", length: 50 })
-    unit: string
+    @Column({ type: "uuid", name: "vehicleId" })
+    vehicleId: string
 
     @ManyToOne(() => MobileVehicleDefra, (vehicle) => vehicle.id, {
         cascade: true,
@@ -52,6 +56,9 @@ export class MobileVehicleEmissionDefra extends BaseEntity {
     })
     @JoinColumn({ name: "vehicleId" })
     vehicle: MobileVehicleDefra
+
+    @Column({ type: "uuid", name: "variantId" })
+    variantId: string
 
     @ManyToOne(() => MobileVehicleVariantDefra, (variant) => variant.id, {
         cascade: true,

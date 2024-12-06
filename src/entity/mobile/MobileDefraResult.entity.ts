@@ -14,29 +14,18 @@ export class MobileDefraResult extends BaseEntity {
 
     @Column()
     ghgProtocolScope: string
+
     @Column()
     type: string
 
     @Column()
     electricVehicleType: string
 
-    // @Column({ type: "int" })
-    // electricityPercentage: number
-
-    // @Column({ type: "int" })
-    // fuelPercentage: number
-
     @Column({ type: "int" })
     year: number
 
     @Column({ type: "integer" })
     noOfDays: number
-
-    // @Column({ type: 'integer' })
-    // year: number;
-
-    // @Column({ type: 'integer' })
-    // noOfDays: number;
 
     @Column({ type: "date" })
     startDate: Date
@@ -75,14 +64,14 @@ export class MobileDefraResult extends BaseEntity {
     CH4output: number
 
     @ManyToOne(() => MobileActivityDefra, (activity) => activity.name)
-    @JoinColumn({ name: "activity", referencedColumnName: "name" })
+    @JoinColumn({ name: "activityId", referencedColumnName: "id" })
     activityVal: MobileActivityDefra
 
     @ManyToOne(() => MobileVehicleDefra, (fuel) => fuel.name)
-    @JoinColumn({ name: "vehicle", referencedColumnName: "name" })
+    @JoinColumn({ name: "vehicleId", referencedColumnName: "id" })
     vehicleVal: MobileVehicleDefra
 
     @ManyToOne(() => MobileVehicleVariantDefra, (fuel) => fuel.name)
-    @JoinColumn({ name: "variant", referencedColumnName: "name" })
-    variantVal: MobileVehicleVariantDefra
+    @JoinColumn({ name: "variantId", referencedColumnName: "id" })
+    variantId: MobileVehicleVariantDefra
 }

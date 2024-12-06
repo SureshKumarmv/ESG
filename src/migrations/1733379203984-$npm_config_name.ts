@@ -1,11 +1,14 @@
 import { MigrationInterface, QueryRunner } from "typeorm"
 
-export class $npmConfigName1733231732796 implements MigrationInterface {
-    name = " $npmConfigName1733231732796"
+export class $npmConfigName1733379203984 implements MigrationInterface {
+    name = " $npmConfigName1733379203984"
 
     public async up(queryRunner: QueryRunner): Promise<void> {
         await queryRunner.query(
-            `CREATE TABLE "Mobile_Ev_Defra_Factor" ("id" uuid NOT NULL DEFAULT uuid_generate_v4(), "name" character varying NOT NULL, "kgco2e" numeric(50,10) NOT NULL, "year" integer NOT NULL, "createdAt" TIMESTAMP NOT NULL DEFAULT now(), "updatedAt" TIMESTAMP NOT NULL DEFAULT now(), "deletedAt" TIMESTAMP, CONSTRAINT "PK_a436107751887a42f01b554a44e" PRIMARY KEY ("id"))`,
+            `CREATE TABLE "Mobile_Activity_Defra" ("id" uuid NOT NULL DEFAULT uuid_generate_v4(), "name" character varying NOT NULL, "createdAt" TIMESTAMP NOT NULL DEFAULT now(), "updatedAt" TIMESTAMP NOT NULL DEFAULT now(), "deletedAt" TIMESTAMP, CONSTRAINT "UQ_28f66cbe8ee3697313848770a97" UNIQUE ("name"), CONSTRAINT "PK_d97bf348c165a304824b11519ff" PRIMARY KEY ("id"))`,
+        )
+        await queryRunner.query(
+            `CREATE TABLE "Mobile_Ev_Defra_Factor" ("id" uuid NOT NULL DEFAULT uuid_generate_v4(), "name" character varying NOT NULL, "kgco2e" numeric(50,10) NOT NULL, "kgco2eCO2" numeric(50,10) NOT NULL, "kgco2eCH4" numeric(50,10) NOT NULL, "kgco2eN2O" numeric(50,10) NOT NULL, "year" integer NOT NULL, "createdAt" TIMESTAMP NOT NULL DEFAULT now(), "updatedAt" TIMESTAMP NOT NULL DEFAULT now(), "deletedAt" TIMESTAMP, CONSTRAINT "PK_a436107751887a42f01b554a44e" PRIMARY KEY ("id"))`,
         )
         await queryRunner.query(
             `CREATE TABLE "Mobile_Defra_KWH" ("id" uuid NOT NULL DEFAULT uuid_generate_v4(), "name" character varying NOT NULL, "kgco2e" numeric(50,10) NOT NULL, "year" integer NOT NULL, "unit" character varying NOT NULL, "type" character varying NOT NULL, "createdAt" TIMESTAMP NOT NULL DEFAULT now(), "updatedAt" TIMESTAMP NOT NULL DEFAULT now(), "deletedAt" TIMESTAMP, CONSTRAINT "PK_9b58df04e72458249529fb4554d" PRIMARY KEY ("id"))`,
@@ -14,10 +17,10 @@ export class $npmConfigName1733231732796 implements MigrationInterface {
             `CREATE TABLE "Mobile_Vehicle_Defra" ("id" uuid NOT NULL DEFAULT uuid_generate_v4(), "name" character varying NOT NULL, "activityId" uuid NOT NULL, "createdAt" TIMESTAMP NOT NULL DEFAULT now(), "updatedAt" TIMESTAMP NOT NULL DEFAULT now(), "deletedAt" TIMESTAMP, CONSTRAINT "UQ_b97a2e5deed8a1e0f462102c3f7" UNIQUE ("name"), CONSTRAINT "PK_deb7ed849e52088ed6d0c01b96a" PRIMARY KEY ("id"))`,
         )
         await queryRunner.query(
-            `CREATE TABLE "Mobile_Vehicle_Variant_Defra" ("id" uuid NOT NULL DEFAULT uuid_generate_v4(), "name" character varying NOT NULL, "vehicleId" uuid NOT NULL, "createdAt" TIMESTAMP NOT NULL DEFAULT now(), "updatedAt" TIMESTAMP NOT NULL DEFAULT now(), "deletedAt" TIMESTAMP, CONSTRAINT "PK_18aa5ca98cbf58ad410813ba06e" PRIMARY KEY ("id"))`,
+            `CREATE TABLE "Mobile_Vehicle_Variant_Defra" ("id" uuid NOT NULL DEFAULT uuid_generate_v4(), "name" character varying NOT NULL, "vehicleId" uuid NOT NULL, "createdAt" TIMESTAMP NOT NULL DEFAULT now(), "updatedAt" TIMESTAMP NOT NULL DEFAULT now(), "deletedAt" TIMESTAMP, CONSTRAINT "UQ_d92c6881b734b6fc055bf6e3602" UNIQUE ("name"), CONSTRAINT "PK_18aa5ca98cbf58ad410813ba06e" PRIMARY KEY ("id"))`,
         )
         await queryRunner.query(
-            `CREATE TABLE "Mobile_Defra_Result" ("id" uuid NOT NULL DEFAULT uuid_generate_v4(), "consumer" character varying NOT NULL, "ghgProtocolScope" character varying NOT NULL, "type" character varying NOT NULL, "electricVehicleType" character varying NOT NULL, "electricityPercentage" integer NOT NULL, "fuelPercentage" integer NOT NULL, "year" integer NOT NULL, "noOfDays" integer NOT NULL, "startDate" date NOT NULL, "endDate" date NOT NULL, "activity" character varying NOT NULL, "vehicle" character varying NOT NULL, "variant" character varying NOT NULL, "unit" character varying NOT NULL, "consumption" double precision NOT NULL, "result" double precision NOT NULL, "CO2output" double precision NOT NULL, "N2Ooutput" double precision NOT NULL, "CH4output" double precision NOT NULL, CONSTRAINT "PK_f413cb9210d0a8a4466fd0cd0ee" PRIMARY KEY ("id"))`,
+            `CREATE TABLE "Mobile_Defra_Result" ("id" uuid NOT NULL DEFAULT uuid_generate_v4(), "consumer" character varying NOT NULL, "ghgProtocolScope" character varying NOT NULL, "type" character varying NOT NULL, "electricVehicleType" character varying NOT NULL, "year" integer NOT NULL, "noOfDays" integer NOT NULL, "startDate" date NOT NULL, "endDate" date NOT NULL, "activity" character varying NOT NULL, "vehicle" character varying NOT NULL, "variant" character varying NOT NULL, "unit" character varying NOT NULL, "consumption" double precision NOT NULL, "result" double precision NOT NULL, "CO2output" double precision NOT NULL, "N2Ooutput" double precision NOT NULL, "CH4output" double precision NOT NULL, CONSTRAINT "PK_f413cb9210d0a8a4466fd0cd0ee" PRIMARY KEY ("id"))`,
         )
         await queryRunner.query(
             `CREATE TABLE "Mobile_Vehicle_Emission_Defra" ("id" uuid NOT NULL DEFAULT uuid_generate_v4(), "kgco2e" numeric(50,10) NOT NULL, "kgco2eCO2" numeric(50,10) NOT NULL, "kgco2eCH4" numeric(50,10) NOT NULL, "kgco2eN2O" numeric(50,10) NOT NULL, "vehicleId" uuid NOT NULL, "year" integer NOT NULL, "variantId" uuid NOT NULL, "unit" character varying(50) NOT NULL, "createdAt" TIMESTAMP NOT NULL DEFAULT now(), "updatedAt" TIMESTAMP NOT NULL DEFAULT now(), "deletedAt" TIMESTAMP, CONSTRAINT "PK_2acaaf72f0ba9dd392f637f62bc" PRIMARY KEY ("id"))`,
@@ -32,7 +35,7 @@ export class $npmConfigName1733231732796 implements MigrationInterface {
             `CREATE TABLE "Mobile_Delivery_Variant" ("id" uuid NOT NULL DEFAULT uuid_generate_v4(), "name" character varying NOT NULL, "activityId" uuid NOT NULL, "TypeId" uuid NOT NULL, "createdAt" TIMESTAMP NOT NULL DEFAULT now(), "updatedAt" TIMESTAMP NOT NULL DEFAULT now(), "deletedAt" TIMESTAMP, CONSTRAINT "PK_3fdb06e91843380049591a2389e" PRIMARY KEY ("id"))`,
         )
         await queryRunner.query(
-            `CREATE TABLE "Mobile_Delivery_Emmission" ("id" uuid NOT NULL DEFAULT uuid_generate_v4(), "kgco2e" numeric(50,10) NOT NULL, "CO2output" numeric(50,10) NOT NULL, "CH4output" numeric(50,10) NOT NULL, "N2Ooutput" numeric(50,10) NOT NULL, "activityId" uuid NOT NULL, "year" integer NOT NULL, "unit" character varying(50) NOT NULL, "TypeId" character varying NOT NULL, "variantId" uuid NOT NULL, "createdAt" TIMESTAMP NOT NULL DEFAULT now(), "updatedAt" TIMESTAMP NOT NULL DEFAULT now(), "deletedAt" TIMESTAMP, "typeId" uuid, CONSTRAINT "PK_67f3c21004bb2e524cd586ac9fc" PRIMARY KEY ("id"))`,
+            `CREATE TABLE "Mobile_Delivery_Emmission" ("id" uuid NOT NULL DEFAULT uuid_generate_v4(), "kgco2e" numeric(50,10) NOT NULL, "kgco2eCO2" numeric(50,10) NOT NULL, "kgco2eCH4" numeric(50,10) NOT NULL, "kgco2eN2O" numeric(50,10) NOT NULL, "activityId" uuid NOT NULL, "year" integer NOT NULL, "unit" character varying(50) NOT NULL, "TypeId" character varying NOT NULL, "variantId" uuid NOT NULL, "createdAt" TIMESTAMP NOT NULL DEFAULT now(), "updatedAt" TIMESTAMP NOT NULL DEFAULT now(), "deletedAt" TIMESTAMP, "typeId" uuid, CONSTRAINT "PK_67f3c21004bb2e524cd586ac9fc" PRIMARY KEY ("id"))`,
         )
         await queryRunner.query(
             `CREATE TABLE "Mobile_Delivery_Result" ("id" uuid NOT NULL DEFAULT uuid_generate_v4(), "year" integer NOT NULL, "consumer" character varying NOT NULL, "ghgProtocolScope" character varying NOT NULL, "startDate" date NOT NULL, "endDate" date NOT NULL, "noOfDays" integer NOT NULL, "activity" character varying, "types" character varying, "variant" character varying, "unit" character varying, "distanceTravelled" double precision, "result" double precision NOT NULL, "CO2output" numeric(50,10) NOT NULL, "CH4output" numeric(50,10) NOT NULL, "N2Ooutput" numeric(50,10) NOT NULL, CONSTRAINT "PK_cb5c36a2beec4f6d61c9a39c7bd" PRIMARY KEY ("id"))`,
@@ -177,5 +180,6 @@ export class $npmConfigName1733231732796 implements MigrationInterface {
         await queryRunner.query(`DROP TABLE "Mobile_Vehicle_Defra"`)
         await queryRunner.query(`DROP TABLE "Mobile_Defra_KWH"`)
         await queryRunner.query(`DROP TABLE "Mobile_Ev_Defra_Factor"`)
+        await queryRunner.query(`DROP TABLE "Mobile_Activity_Defra"`)
     }
 }

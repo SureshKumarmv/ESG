@@ -17,7 +17,9 @@ import { MobileSECRFuelFactorDefra } from "../../entity/mobileSECRDefra/MobileSE
 import { MobileVehicleVariantSECRDefra } from "../../entity/mobileSECRDefra/MobileSECRVehicleVariantDefra.entity"
 import { MobileDeliveryLoadEmission } from "../../entity/mobileDelivery/mobileDeliveryLoad.entity"
 // import { Load } from "../../enum/Load.enum"
+
 export class MobileDefraController {
+    // ----------------------------Passenger starts----------------------------------------
     static async getMobileDefraActivites(req: Request, res: Response) {
         try {
             const mobileDefraActivity = await MobileActivityDefra.find({ where: { ...req.query } })
@@ -31,11 +33,9 @@ export class MobileDefraController {
 
     static async postMobileDefraResult(req: Request, res: Response) {
         const {
-            // electricityPercentage,
             electricVehicleType,
             year,
             consumer,
-            // ghgProtocol,
             startDate,
             endDate,
             activity,
@@ -44,6 +44,7 @@ export class MobileDefraController {
             vehicleVariant,
             consumption,
             unit,
+            // ghgProtocol,
         } = req.body
         try {
             const activityVal = await MobileActivityDefra.find({ where: { id: activity } })
@@ -78,7 +79,7 @@ export class MobileDefraController {
             if (type === "FuelVehicle") {
                 const emissionFactor = await MobileVehicleEmissionDefra.find({
                     where: [
-                        { vehicleId: vehicle, variantId: vehicleVariant, unit: "Km", year: year },
+                        // { vehicleId: vehicle, variantId: vehicleVariant, unit: "Km", year: year }, to be corrected later
                     ],
                 })
 
@@ -110,7 +111,7 @@ export class MobileDefraController {
 
                 const emissionFactor = await MobileVehicleEmissionDefra.find({
                     where: [
-                        { vehicleId: vehicle, variantId: vehicleVariant, unit: "Km", year: year },
+                        // { vehicleId: vehicle, variantId: vehicleVariant, unit: "Km", year: year }, // to be corrected
                     ],
                 })
 
@@ -196,6 +197,7 @@ export class MobileDefraController {
                 .json({ message: error.message ? error.message : "Something went wrong" })
         }
     }
+    // ----------------------------Passenger ends----------------------------------------
 
     // ----------------------------Delivery starts----------------------------------------
     static async getMobileDeliveryActivity(req: Request, res: Response) {
